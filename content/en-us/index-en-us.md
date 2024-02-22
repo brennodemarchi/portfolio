@@ -1,5 +1,5 @@
 ---
-title: Home
+title: First Page
 ---
 
 > [!Example] Menu

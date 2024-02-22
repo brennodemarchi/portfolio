@@ -1,5 +1,5 @@
 ---
-title: Início
+title: Página Inicial
 ---
 
 > [!Example] Menu
