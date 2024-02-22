@@ -3,8 +3,8 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index|Início]] [[currículo|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
-> [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
+> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual|Audiovisual]]    [[workshops and courses|Workshops and Courses]] 
+> [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 ---
 

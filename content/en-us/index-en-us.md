@@ -3,8 +3,8 @@ title: Home
 ---
 
 > [!Example] Menu
-> [[index|Início]] [[currículo|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
-> [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
+> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual|Audiovisual]]    [[workshops and courses|Workshops and Courses]] 
+> [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 # Greeting, I'm Brenno Brandalise Demarchi, it's nice to see you here!
 
@@ -18,28 +18,28 @@ That's why I took on the challenge of designing a site that can be browsed accor
 
 > [!faq] Website Sections
 
-[[currículo|Currículo:]] reúne as minhas informações educacionais e profissionais
-[[publicações|Publicações:]] todas as publicações em que estive envolvido como autor ou co-autor
-[[audiovisual|Audiovisual:]] todas as produções audiovisuais que colaborei
-[[oficinas e cursos|Oficinas e Cursos:]]  todas as oficinas e cursos que ministrei
-[[pesquisas|Pesquisas e Anotações:]] listas com referências e anotações de cada pesquisa que venho desenvolvendo.
+[[cv|CV:]] gathers my educational and professional information
+[[publications|Publications:]] all publications in which I have been an author or co-author
+[[content/en-us/about/audiovisual|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
+[[workshops and courses|Workshops:]]  all the workshops and courses I have given
+[[research|Research and Note-Taking:]] lists of references and notes for each piece of research I've been doing (for now only in Brazilian Portuguese)
 
-> [!text] Um breve relato das minhas derivas
+> [!text] A brief account of my wanderings
 
- A seguir, você conhecerá um pouco mais sobre a minha perspectiva, meu percurso e os eixos temáticos que circundam meus interesses de pesquisa e demais projetos.
+ Below you'll find out a little more about my perspective, my journey and the themes that surround my research interests and other projects.
 
-Sou um Antropólogo que não para quieto e gosta de perambular, experimentar e compreender diferentes assuntos, técnicas e perspectivas a partir de abordagens ~~transdisciplinares~~ _indisciplinares_ que partem das ciências humanas e sociais e atravessam outros campos de saber.
+I am an anthropologist who doesn't sit still and likes to wander, experiment and understand different subjects, techniques and perspectives from ~~transdisciplinary~~ _indisciplinary_ approaches that start from the human and social sciences and cross other fields of knowledge.
 
-É a partir dessa mescla que experimento diversas linguagens e expressões artísticas através do senso crítico e da relação entre teoria e prática, me desafiando a buscar diferentes perspectivas a partir da alteridade, me atentando aos detalhes e aberto à novas possibilidades de aprendizado com seres de diversas espécies (humanos, não-humanos e mais-que-humanos).
+It is from this mixing that I experiment with different languages and artistic expressions through a critical sense and the relationship between theory and practice, challenging myself to seek different perspectives based on otherness, paying attention to detail and open to new possibilities of learning with beings from different species (human, non-human and more-than-human).
 
-Apesar de ser uma lista extensa, meus interesses de pesquisas e projetos permeiam os seguintes eixos temáticos:
+Although it's a long list, my research interests and projects encompass the following thematic axes:
 
-- **ecologia, meio e ambiente:** relações multiespécies, solarpunk, agricultura, bens comuns, compostagem, resíduos e águas;
+- **ecology, environment and nature:** multi-species relations, solarpunk, agriculture, common goods, composting, waste and water;
 
-- **infraestruturas e territórios:** errâncias, derivas, mapas, fronteiras, margens, (infra)estruturas, ruínas, construções, projetos, circulação, andabilidade
+- **infrastructures and territories:** wanderings, drifts, maps, borders, margins, (infra)structures, ruins, constructions, projects, circulation, walkability
 
-- **fotografia, cinema e produção audiovisual**: sons e paisagens sonoras, áudio, ruído, música, fotografia e documentários.
+- **Photography, cinema and audiovisual production: sounds and soundscapes, audio, noise, music, photography and documentaries.
 
-- **design e informação:** sistemas, redes, acessibilidade, interfaces, arquiteturas, encontrabilidade, conexões, dados, informações, gráficos, imagens, algoritmos, modelos e grafos;
+- **design and information:** systems, networks, accessibility, interfaces, architectures, findability, connections, data, information, graphics, images, algorithms, models and graphs;
 
-- **organizacionais:** metodologias, técnicas, processos e métricas de produção, gestão e distribuição em diferentes contextos e escalas para projetos autogestionados coletivamente.
+- **organization:** methodologies, techniques, processes and metrics for production, management and distribution in different contexts and scales for collectively self-managed projects.

@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index|Início]] [[currículo|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
+> [[index-pt-br|Início]] [[currículo|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
 > [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
 
 # 2022
