@@ -8,32 +8,32 @@ indentation: "1"
 
 ---
 
-Doutorando em Antropologia Social pela Universidade Federal de Santa Catarina. e Produtor Cultural independente.
+PhD Student in Social Anthropology at Santa Catarina Federal University and Independent Cultural Producer.
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
-# Idiomas
+# Languages
 
 | **Idioma** | **Nível** | CEFR |
 | ---- | ---- | ---- |
-| Português | Nativo | - |
-| Inglês | Fluente | C2 |
-| Espanhol | Avançado | B2 |
-| Francês | Intermediário | B1-B2 |
-| Russo | Iniciante | A0-A1 |
+| Portuguese | Native | - |
+| English | Fluent | C2 |
+| Spanish | Advanced | B2 |
+| French | Intermediate | B1-B2 |
+| Russian | Beginner | A0-A1 |
 
 ---
-# Educação
+# Education
 
-##### *2023 - Em andamento* | Doutorado em Antropologia Social
-Universidade Federal de Santa Catarina (UFSC), Florianópolis-SC
-*Orientação:* Prof.ª Dr.ª Viviane Vedana
+##### *2023 - at the moment* | PhD in Social Anthropology
+Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
+*Advisor:*  Dr. Viviane Vedana
 
-##### *2020-2023* | Mestrado em Antropologia Social 
-Universidade Federal de Santa Catarina (UFSC), Florianópolis-SC
-*Orientação:* Prof.ª Dr.ª Viviane Vedana
-*Banca Examinadora:* Letícia Cesarino (UFSC) e Cornelia Eckert (UFRGS)
-*Título:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). Mais informações [[Dissertação - Antropologia Social - UFSC - 2023|neste link]].
+##### *2020-2023* | Master in Social Anthropology 
+Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
+*Advisor:* Dr. Viviane Vedana
+*Examination Board:* Letícia Cesarino (UFSC) e Cornelia Eckert (UFRGS)
+*Título:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). More information [[Dissertação - Antropologia Social - UFSC - 2023|just click here]].
 
 ##### *2015-2019* | Licenciatura em Ciências Sociais
 Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília-SP.
