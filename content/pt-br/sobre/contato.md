@@ -5,7 +5,7 @@ indentation: "1"
 > [[index-pt-br|Início]] [[currículo|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
 > [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
 
-Estou contente por você estar aqui. Obrigado por ter se interessado nas minhas desventuras! 
+Estou contente por você estar aqui. Obrigado por ter se interessado nas minhas aventuras! 
 
 A melhor forma para entrar em contato comigo é pelo e-mail, mas você pode acompanhar meu trabalho pelas redes sociais, ainda que eu não publique muito por lá.
 

@@ -2,42 +2,42 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual|Audiovisual]]    [[workshops and courses|Workshops and Courses]] 
+> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[content/en-us/about/audiovisual|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
 > [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
-Estou contente por você estar aqui. Obrigado por ter se interessado nas minhas desventuras! 
+I'm glad you're here. Thanks for taking an interest in my adventures! 
 
-A melhor forma para entrar em contato comigo é pelo e-mail, mas você pode acompanhar meu trabalho pelas redes sociais, ainda que eu não publique muito por lá.
+The best way to get in touch with me is by email, but you can follow my work on social media, even though I do not post much there.
 
 **Email:** brennodemarchi@gmail.com
 
 ---
-## Para uso geral
+## For general use
 
 **Instagram:** [@brennodemarchi](https://www.instagram.com/brennodemarchi/)
 **Reddit:** [u/brennodemarchi](https://www.reddit.com/user/brennodemarchi/)
 
 ---
-## Para fins acadêmicos / profissionais
+## For academic or professional purposes
 
-### Currículos 
+### CVs 
 
-**Lattes CNPq:** http://lattes.cnpq.br/5599778124078031
+**Lattes CNPq (created and maintained by Brazilian Government):** http://lattes.cnpq.br/5599778124078031
 **ORCID:** https://orcid.org/0000-0001-9701-1336
 **Linkedin:** [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/)
-**Linktree (agregador de links):** [brennodemarchi](https://linktr.ee/brennodemarchi)
+**Linktree (link aggregator):** [brennodemarchi](https://linktr.ee/brennodemarchi)
 
 ---
-### Publicações
+### Publications
 
 **AcademiaEdu:** [Brenno B. Demarchi](https://ufsc.academia.edu/BrennoDemarchi)
 **ResearchGate:**[ Brenno Brandalise Demarchi](https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi)
 
 ---
-### Projetos
+### Projects
 
-**Behance (Fotografias):** [brennodemarchi](https://www.behance.net/brennodemarchi)
-**Youtube (Vídeos):** [@brennodemarchi](https://www.youtube.com/@brennodemarchi)
-**GitHub (Códigos):** [brennodemarchi](https://github.com/brennodemarchi)
+**Behance (Photography):** [brennodemarchi](https://www.behance.net/brennodemarchi)
+**Youtube (Videos):** [@brennodemarchi](https://www.youtube.com/@brennodemarchi)
+**GitHub (Coding):** [brennodemarchi](https://github.com/brennodemarchi)
 
 ---
