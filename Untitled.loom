@@ -1,0 +1,106 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "530116b3-f874-4f87-9a15-35d303f80e2f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "0658e536-8058-4dc7-b97c-28746cd083cb",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "6a10fb07-d185-4c49-9133-8fa161dfa00b",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-02-22T21:48:14.784Z",
+        "lastEditedDateTime": "2024-02-22T21:49:17.623Z",
+        "cells": [
+          {
+            "id": "7ae1fe5d-abe5-49ec-a045-9323f7096627",
+            "columnId": "530116b3-f874-4f87-9a15-35d303f80e2f",
+            "content": "![[brazil-flag.png|90]]",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d230a9f1-0474-456c-aee7-e80dfd85b679",
+            "columnId": "0658e536-8058-4dc7-b97c-28746cd083cb",
+            "content": "![[en-flag.png|90]]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fca2c450-382c-4f89-b2f9-bc089cff431a",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-02-22T21:48:58.714Z",
+        "lastEditedDateTime": "2024-02-22T21:49:11.705Z",
+        "cells": [
+          {
+            "id": "2f45620f-6256-4d28-9e8a-2dbacf7fc2dd",
+            "columnId": "530116b3-f874-4f87-9a15-35d303f80e2f",
+            "content": "[[index-pt-br|Português]]",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "409df3c6-77d3-4976-a40d-ffdeb40fb459",
+            "columnId": "0658e536-8058-4dc7-b97c-28746cd083cb",
+            "content": "[[index-en-us|English]]",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
