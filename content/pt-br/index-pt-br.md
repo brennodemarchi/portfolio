@@ -1,5 +1,6 @@
 ---
 title: Página Inicial
+indentation: "0"
 ---
 
 > [!Example] Menu
@@ -19,11 +20,11 @@ Por isso, tomei como desafio projetar um site que possa ser vasculhado de acordo
 > [!faq] Seções
 > 
 
-[[currículo|Currículo:]] reúne as minhas informações educacionais e profissionais
-[[publicações|Publicações:]] todas as publicações em que estive envolvido como autor ou co-autor
-[[audiovisual|Audiovisual:]] todas as produções audiovisuais que colaborei
-[[oficinas e cursos|Oficinas e Cursos:]]  todas as oficinas e cursos que ministrei
-[[pesquisas|Pesquisas e Anotações:]] listas com referências e anotações de cada pesquisa que venho desenvolvendo.
+* [[currículo|Currículo:]] reúne as minhas informações educacionais e profissionais
+* [[publicações|Publicações:]] todas as publicações em que estive envolvido como autor ou co-autor
+* [[audiovisual|Audiovisual:]] todas as produções audiovisuais que colaborei
+* [[oficinas e cursos|Oficinas e Cursos:]]  todas as oficinas e cursos que ministrei
+* [[pesquisas|Pesquisas e Anotações:]] listas com referências e anotações de cada pesquisa que venho desenvolvendo.
 
 > [!text] Um breve relato das minhas derivas
 

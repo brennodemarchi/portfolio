@@ -6,15 +6,14 @@ indentation: "1"
 > [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 
+>[!faq] Topics
 
-
->[!faq] Seções
-[[content/pt-br/pesquisas/Antropologia das Infraestruturas]] 
-[[content/pt-br/pesquisas/Antropologia do Som e Etnografias Sonoras]] 
-[[content/pt-br/pesquisas/Etnografar a ecologia dos jogos]] 
-[[content/pt-br/pesquisas/Etnografias Multiespécies]]
-[[content/pt-br/pesquisas/Jardins Digitais]]
-[[content/pt-br/pesquisas/Metodologias de Autogestão]]
+* [[content/pt-br/pesquisas/Antropologia das Infraestruturas|Antropologia das Infraestruturas]] 
+* [[content/pt-br/pesquisas/Antropologia do Som e Etnografias Sonoras|Antropologia do Som e Etnografias Sonoras]] 
+* [[content/pt-br/pesquisas/Etnografar a ecologia dos jogos|Etnografar a ecologia dos jogos]] 
+* [[content/pt-br/pesquisas/Etnografias Multiespécies|Etnografias Multiespécies]]
+* [[content/pt-br/pesquisas/Jardins Digitais|Jardins Digitais]]
+* [[content/pt-br/pesquisas/Metodologias de Autogestão|Metodologias de Autogestão]]
 
 
 

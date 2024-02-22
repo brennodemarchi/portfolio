@@ -1,5 +1,6 @@
 ---
 title: First Page
+indentation: "0"
 ---
 
 > [!Example] Menu
@@ -18,11 +19,11 @@ That's why I took on the challenge of designing a site that can be browsed accor
 
 > [!faq] Website Sections
 
-[[cv|CV:]] gathers my educational and professional information
-[[publications|Publications:]] all publications in which I have been an author or co-author
-[[audiovisual productions|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
-[[workshops and courses|Workshops:]]  all the workshops and courses I have given
-[[research|Research and Note-Taking:]] lists of references and notes for each piece of research I've been doing (for now only in Brazilian Portuguese)
+* [[cv|CV:]] gathers my educational and professional information
+* [[publications|Publications:]] all publications in which I have been an author or co-author
+* [[audiovisual productions|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
+* [[workshops and courses|Workshops:]]  all the workshops and courses I have given
+* [[research|Research and Note-Taking:]] lists of references and notes for each piece of research I've been doing (for now only in Brazilian Portuguese)
 
 > [!text] A brief account of my wanderings
 
