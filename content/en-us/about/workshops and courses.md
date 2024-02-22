@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[content/en-us/about/audiovisual|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
+> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
 > [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 # 2022

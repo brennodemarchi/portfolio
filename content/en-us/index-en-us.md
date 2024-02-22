@@ -3,7 +3,7 @@ title: Home
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[content/en-us/about/audiovisual|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
+> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
 > [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 # Greeting, I'm Brenno Brandalise Demarchi, it's nice to see you here!
@@ -20,7 +20,7 @@ That's why I took on the challenge of designing a site that can be browsed accor
 
 [[cv|CV:]] gathers my educational and professional information
 [[publications|Publications:]] all publications in which I have been an author or co-author
-[[content/en-us/about/audiovisual|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
+[[audiovisual productions|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
 [[workshops and courses|Workshops:]]  all the workshops and courses I have given
 [[research|Research and Note-Taking:]] lists of references and notes for each piece of research I've been doing (for now only in Brazilian Portuguese)
 
