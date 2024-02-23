@@ -22,24 +22,24 @@ That's why I took on the challenge of designing a site that can be browsed accor
 * [[cv|CV:]] gathers my educational and professional information
 * [[publications|Publications:]] all publications in which I have been an author or co-author
 * [[audiovisual productions|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
-* [[workshops and courses|Workshops:]]  all the workshops and courses I have given
-* [[research|Research and Note-Taking:]] lists of references and notes for each piece of research I've been doing (for now only in Brazilian Portuguese)
+* [[workshops and courses|Workshops and Courses:]] workshops and courses I have given
+* [[research|Research and Note-Taking:]] lists of references and notes for each piece of research I've been doing (for now available only in Brazilian Portuguese)
 
 > [!text] A brief account of my wanderings
 
- Below you'll find out a little more about my perspective, my journey and the themes that surround my research interests and other projects.
+ Below you are going to find out a little more about my perspective, my journey and the themes that surround my research interests and other projects.
 
-I am an anthropologist who doesn't sit still and likes to wander, experiment and understand different subjects, techniques and perspectives from ~~transdisciplinary~~ _indisciplinary_ approaches that start from the human and social sciences and cross other fields of knowledge.
+I am an anthropologist who does not sit still and likes to wander, experiment and understand different subjects, techniques and perspectives from ~~transdisciplinary~~ _indisciplinary_ approaches that start from the human and social sciences and cross other fields of knowledge.
 
-It is from this mixing that I experiment with different languages and artistic expressions through a critical sense and the relationship between theory and practice, challenging myself to seek different perspectives based on otherness, paying attention to detail and open to new possibilities of learning with beings from different species (human, non-human and more-than-human).
+It is from this mixing that I experiment with different languages and artistic expressions through a critical sense and the relationship between theory and practice, challenging myself to seek different perspectives based on otherness, paying attention to detail and open to new possibilities of learning with beings from different species (humans, non-humans and more-than-humans).
 
-Although it's a long list, my research interests and projects encompass the following thematic axes:
+Although it is a long list, my research interests and projects encompass the following thematic axes:
 
 - **ecology, environment and nature:** multi-species relations, solarpunk, agriculture, common goods, composting, waste and water;
 
-- **infrastructures and territories:** wanderings, drifts, maps, borders, margins, (infra)structures, ruins, constructions, projects, circulation, walkability
+- **infrastructures and territories:** wanderings, drifts, maps, borders, margins, (infra)structures, ruins, constructions, projects, circulation, walkability;
 
-- **Photography, cinema and audiovisual production: sounds and soundscapes, audio, noise, music, photography and documentaries.
+- **Photography, cinema and audiovisual production:** sounds and soundscapes, audio, noise, music, photography and documentaries;
 
 - **design and information:** systems, networks, accessibility, interfaces, architectures, findability, connections, data, information, graphics, images, algorithms, models and graphs;
 

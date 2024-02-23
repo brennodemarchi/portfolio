@@ -8,7 +8,7 @@ indentation: "1"
 
 ---
 
-Doutorando em Antropologia Social pela Universidade Federal de Santa Catarina. Produtor Cultural independente.  
+Antropólogo e Produtor Cultural independente. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Graduado no Bacharelado e Licenciatura em Ciências Sociais pela Universidade Estadual Paulista (Unesp). Técnico em Informática pela Escola Técnica Aristóteles Ferreira (ETEC-AF).    
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
@@ -25,7 +25,7 @@ Doutorando em Antropologia Social pela Universidade Federal de Santa Catarina. P
 ---
 # Educação
 
-##### *2023 - Em andamento* | Doutorado em Antropologia Social
+##### *2023 - até o momento* | Doutorado em Antropologia Social
 Universidade Federal de Santa Catarina (UFSC), Florianópolis-SC
 *Orientação:* Prof.ª Dr.ª Viviane Vedana
 
@@ -83,7 +83,7 @@ A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com
 
 #### 2020 - Atual | Grupo de pesquisa Nupepa/ImaRgens
 
-Esta atividade tem por objetivo fomentar o uso e a produção de material audiovisual, como ferramentas de ensino e pesquisa, com foco especial nas áreas de ciências sociais e história. A execução desta atividade e se seu público potencial abarcam não apenas docentes, pesquisadores e estudantes de graduação e pós-graduação da USP, mas também os atores sociais normalmente tratados como ?objetos de pesquisa?, bem como professores e alunos dos níveis secundário e primário. https://www.imargens.com.br/nupepa
+Este grupo de pesquisa tem por objetivo fomentar o uso e a produção de material audiovisual, como ferramentas de ensino e pesquisa, com foco especial nas áreas de ciências sociais e história. A execução desta atividade e se seu público potencial abarcam não apenas docentes, pesquisadores e estudantes de graduação e pós-graduação da USP, mas também os atores sociais normalmente tratados como ?objetos de pesquisa?, bem como professores e alunos dos níveis secundário e primário. https://www.imargens.com.br/nupepa
 
 #### 2020 - Atual | Grupo de Estudos de Imagem, Fotografia e Cinema - GEI
 
@@ -133,34 +133,34 @@ Carga Horária: 100h
 
 #### Curso de Leituras: Ecologia, comuns e antropoceno
 Programa de Pós-Graduação em Antropologia Social da Universidade Federal de Santa Catarina `(sob supervisão da Prof.ª Dr.ª Viviane Vedana)`
-Carga Horária: ?h
+**Carga Horária:** 60h
 
 #### Adobe Premiere Pro - Edição, Mixagem, Colorização e Animação
 AvMakers -  Escola de Audiovisual
-Carga Horária: 134h
+**Carga Horária:** 134h
 
 #### Tratamento Fotográfico Profissional com Softwares Adobe
 AvMakers -  Escola de Audiovisual
-Carga Horária: 58h
+**Carga Horária:** 58h
 
 #### Direção de Fotografia
 AvMakers -  Escola de Audiovisual
-Carga Horária: 114h
+**Carga Horária:** 114h
 
 #### Fotografia Profissional
 AvMakers -  Escola de Audiovisual
-Carga Horária: 114h
+**Carga Horária:** 114h
 
 ---
 ## 2021
 
 #### Processos Musicais: Conceito, Composição e Finalização
 AvMakers -  Escola de Audiovisual
-Carga Horária: 28h
+**Carga Horária:** 28h
 
 #### Cinema - Linguagem, Planejamento e Direção
 AvMakers -  Escola de Audiovisual
-Carga Horária: 60h
+**Carga Horária:** 60h
 
 #### A Ecologia Social de Murray Bookchin
 Instituto de Teoria e História Anarquista (ITHA)
@@ -183,6 +183,7 @@ Carga Horária: 30h
 
 #### 7ª Edição da Oficina de Audiovisual do ImaRgens/ICNOVA
 Universidade de São Paulo; Instituto de Comunicação da Universidade NOVA de Lisboa (ICNOVA)
+**Trabalho Final:** produção do documentário [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020)|"Um Fone no Ouvido e o Outro na Cidade"]].
 Carga Horária: 60h
 
 #### Execução Financeira e Prestação de Contas Referentes aos Projetos Audiovisuais

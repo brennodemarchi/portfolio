@@ -47,197 +47,196 @@ São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, B
 *Título:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
 ---
-# Experiências Profissionais
+# Professional Experience
 
-**2021** | Coordenador do GT “Processos Musicais, Cultura e Sociedade” do VI Seminário Discente do Programa de Pós-Graduação em Sociologia da Universidade Federal de Minas Gerais (PPGS/UFMG), com registro no [SIEX nº 204338](https://sistemas.ufmg.br/siex/VerIdentificacao.do?id=84823&tipo=Evento). 
+**2021** | Coordinator of the Working Group entitled "Musical Processes, Culture and Society" ["Processos Musicais, Cultura e Sociedade"] at the academic event "VI Student Seminar of the Graduate Program in Sociology at the Federal University of Minas Gerais" ["VI Seminário Discente do Programa de Pós-Graduação em Sociologia da Universidade Federal de Minas Gerais"], with registration number [204338](https://sistemas.ufmg.br/siex/VerIdentificacao.do?id=84823&tipo=Evento) in the Extension Information System (SIEX) Federal University of Minas Gerais. 
 
-**2021** | Estágio Docência na disciplina "Tutorial Optativa IV - Antropologia e Som", sob supervisão da Prof.ª Dr.ª Viviane Vedana, no curso de Bacharelado em Antropologia da Universidade Federal de Santa Catarina (UFSC)
+**2021** | Teaching Internship in the course " Elective Tutorship IV - Anthropology and Sound", under the supervision of Prof. Dr. Viviane Vedana, in the Bachelor's degree course in Anthropology at the Federal University of Santa Catarina (UFSC).
 
-**2019-2021** | Podcast de Marte: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponível em: https://linktr.ee/podcastdemarte. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
+**2019-2021** | Podcast from Mars ["Podcast de Marte"] : a narrative podcast to critically reflect on our society. Production, script, host and editing: Brenno Brandalise Demarchi. Available in Brazilian Portuguese at: https://linktr.ee/podcastdemarte. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
 **2019** | Monitoria na disciplina "Introdução à Antropologia", 
-Monitoria selecionada através de processo seletivo, na disciplina de Introdução à Antropologia, do primeiro ano do curso de Ciências Sociais, da Faculdade de Filosofia e Ciências da Universidade Estadual Paulista (Unesp), supervisionado pelo Prof. Dr. Antonio Mendes da Costa Braga.
+Teaching Internship selected through a recruitment and selection process, in the course "Introduction to Anthropology", given in the 1st year of the Social Sciences undergraduation course, at the Faculty of Philosophy and Sciences of the São Paulo State University - Brazil, supervised by Dr. Antonio Mendes da Costa Braga.
 
-**2010-2011** | Bolsista na Orquestra Instituto Pão de Açúcar - Modalidade: Violista (Viola de Arco)
-
----
-# Grupos de Estudos e Pesquisas
-
-
-#### 2020 - Atual | Grupo de pesquisa Nupepa/ImaRgens
-
-Esta atividade tem por objetivo fomentar o uso e a produção de material audiovisual, como ferramentas de ensino e pesquisa, com foco especial nas áreas de ciências sociais e história. A execução desta atividade e se seu público potencial abarcam não apenas docentes, pesquisadores e estudantes de graduação e pós-graduação da USP, mas também os atores sociais normalmente tratados como ?objetos de pesquisa?, bem como professores e alunos dos níveis secundário e primário. https://www.imargens.com.br/nupepa
-
-#### 2020 - Atual | Grupo de Estudos de Imagem, Fotografia e Cinema - GEI
-
-Coordenado pelo Prof. Dr. Paulo Eduardo Teixeira e pela Profª. Drª. Maria Leandra Bizello, vinculado com o Departamento de Ciências Políticas e Econômicas (Unesp-FFC, Marília-SP) e cadastrado no CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/3011092794865160
-
-### 2018 - Atual | Grupo de Estudo e Pesquisa em Epistemologia Genética e Educação - GEPEGE
-
-Coordenado pelo Profs. Drs. Adrian Oscar Dongo Montoya e Ricardo Pereira Tassinari. O está vinculado com o Departamento de Psicologia da Educação (Unesp-FFC, Marília-SP) e cadastrado no CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
+**2010-2011** | Scholarship holder at the Pão de Açúcar Institute Orchestra - Modality: Violist (Viola).
 
 ---
-# Educação Continuada & Treinamentos Profissionais
+# Study and Research Groups
 
+#### 2020 - At the moment | Audiovisual Research and Production Center Research Group ["Núcleo de Pesquisa e Produção Audiovisual - Nupepa/ImaRgens"] 
+
+This research group aims to encourage the use and production of audiovisual material, as teaching and research tools, with a special focus on the areas of social sciences and history. The execution of this activity and its potential audience include not only teachers, researchers and undergraduate and postgraduate students at USP, but also social actors normally treated as “research objects”, as well as teachers and students at secondary and primary levels. Excerpt extracted and translated in the following link, where there is more information about the history of activities in Brazilian Portuguese: https://www.imargens.com.br/nupepa.
+
+#### 2020 - At the moment | Image, Photography and Cinema Study Group ["Grupo de Estudos de Imagem, Fotografia e Cinema - GEI"]
+
+Coordinated by Prof. Dr. Paulo Eduardo Teixeira and Prof. Dr. Maria Leandra Bizello, related to the Department of Political and Economic Sciences  of São Paulo State University (Marília- São Paulo, Brazil) and registered in CNPq database: http://www.dgp.cnpq.br/dgp/espelhogrupo/3011092794865160
+
+### 2018 - At the moment | Genetic Epistemology and Education Study and Research Group ["Grupo de Estudo e Pesquisa em Epistemologia Genética e Educação - GEPEGE"]
+
+Coordinated by Profs. Drs. Adrian Oscar Dongo Montoya and Ricardo Pereira Tassinari. The is linked to the Department of Educational Psychology (Unesp-FFC, Marília-SP) and registered in CNPq database: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
+
+---
+# Continuing Education and Professional Training
 
 ## 2022 
 
-#### Extensão universitária em Água Limpa
-Instituto Singularidades
-Carga Horária: 25h
+#### "Clean Water" Extension Program ["Extensão Universitária em Água Limpa"]
+Singularities Institute ["Instituto Singularidades"]   
+**Workload:** 25h
 
-#### Oficina de Roteiro
-Instituto Estadual de Cinema (Iecine)
-Carga Horária: 30h
+#### Screenplay Workshop
+Rio Grande do Sul State Cinema Institute ["Instituto Estadual de Cinema (Iecine)"]
+**Workload:** 30h
 
-#### Oficina de Preparação de Projetos para Mercados Internacionais para Cinema 
-Instituto Estadual de Cinema (Iecine)
-Carga Horária: 30h
+#### Project Preparation Workshop for International Markets for Cinema
+Rio Grande do Sul State Cinema Institute ["Instituto Estadual de Cinema (Iecine)"]
+**Workload:** 30h
 
-#### Elaboração de Projetos Culturais 
-Universidade Federal do Rio de Janeiro
-Carga Horária: 30h
+#### Designing Cultural Projects Proposals
+Federal University of Rio de Janeiro
+**Workload:** 30h
 
-#### PRINCE2 - Outra maneira de gerenciar projetos na administração pública
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 
+#### PRINCE2 - Another way to manage projects in public administration
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+**Workload:** Xh
 
-#### Gestão Ágil para Transformação Digital
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 175h
+#### Agile Management for Digital Transformation
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+**Workload:** 175h
 
-#### Programa de Gestão (Parte II)
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 100h
+#### Management Program (Part II)
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+**Workload:** 100h
 
 ---
 
 ## 2021-2022
 
-#### Curso de Leituras: Ecologia, comuns e antropoceno
-Programa de Pós-Graduação em Antropologia Social da Universidade Federal de Santa Catarina `(sob supervisão da Prof.ª Dr.ª Viviane Vedana)`
-Carga Horária: ?h
+#### Guided Reading Course: "Ecology, commons and anthropocene"
+Postgraduate Program in Social Anthropology at the Federal University of Santa Catarina `(under the supervision of professor Dr. Viviane Vedana)`
+**Workload:** 60h
 
-#### Adobe Premiere Pro - Edição, Mixagem, Colorização e Animação
-AvMakers -  Escola de Audiovisual
-Carga Horária: 134h
+#### Adobe Premiere Pro - Editing, Mixing, Colorization and Animation
+*AvMakers* -  Audiovisual School
+Workload: 134h
 
-#### Tratamento Fotográfico Profissional com Softwares Adobe
-AvMakers -  Escola de Audiovisual
-Carga Horária: 58h
+#### Professional Photographic Treatment with Adobe Softwares
+*AvMakers* -  Audiovisual School
+Workload: 58h
 
-#### Direção de Fotografia
-AvMakers -  Escola de Audiovisual
-Carga Horária: 114h
+#### Direction of Photography
+*AvMakers* -  Audiovisual School
+Workload: 114h
 
-#### Fotografia Profissional
-AvMakers -  Escola de Audiovisual
-Carga Horária: 114h
+#### Professional Photography
+*AvMakers* -  Audiovisual School
+Workload:  114h
 
 ---
 ## 2021
 
-#### Processos Musicais: Conceito, Composição e Finalização
-AvMakers -  Escola de Audiovisual
-Carga Horária: 28h
+#### Musical Processes: Concept, Composition and Finalization
+*AvMakers* -  Audiovisual School
+**Workload:**  28h
 
-#### Cinema - Linguagem, Planejamento e Direção
-AvMakers -  Escola de Audiovisual
-Carga Horária: 60h
+#### Cinema - Language, Planning and Direction
+*AvMakers* -  Audiovisual School
+**Workload:** 60h
 
-#### A Ecologia Social de Murray Bookchin
-Instituto de Teoria e História Anarquista (ITHA)
-Carga Horária: 4h
+#### Murray Bookchin's Social Ecology
+Institute of Anarchist Theory and History ["Instituto de Teoria e História Anarquista (ITHA)"]
+**Workload:** 4h
 
-#### O Prazer de Produzir Audiovisual com Marcelo Torres
-IluMinas Artes
-Carga Horária: 8h
+#### The Pleasure of Producing Audiovisual with Marcelo Torres
+*IluMinas Artes*
+**Workload:** 8h
 
-#### Design Thinking Aplicado à Gestão
-Universidade Federal de São Paulo (Unifesp)
-Carga Horária: 10h
+#### Design Thinking Applied to Management
+Federal University of São Paulo ["Universidade Federal de Santa Catarina (Unifesp)"]
+Workload: 10h
 
 ---
 ## 2020
 
 #### Extensão universitária em Autogestão, Cooperativas e Economia Solidária
-Universidade Federal de São Paulo (Unifesp)
-Carga Horária: 30h
+Universidade Federal de São Paulo (Unifesp)   
+Workload: 30h   
 
-#### 7ª Edição da Oficina de Audiovisual do ImaRgens/ICNOVA
-Universidade de São Paulo; Instituto de Comunicação da Universidade NOVA de Lisboa (ICNOVA)
-Carga Horária: 60h
+#### 7th Edition of the Audiovisual Workshop
+ImaRgens (a Research Group linked to the São Paulo State University) and the Communication Institute of the NOVA University of Lisbon   
+**Capstone Project:** production of the documentary entitled "One Ear on the Phone and the Other in the City"   
+**Workload:** 60h
 
-#### Execução Financeira e Prestação de Contas Referentes aos Projetos Audiovisuais
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 30h
+#### Financial Execution and Accountability Regarding Audiovisual Projects
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+Workload: 30h
 
-#### Concepção de projetos audiovisuais e fontes de financiamento
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Design of audiovisual projects and sources of financing
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+Workload: 20h
 
-#### Questão Agrária e Soberania Alimentar
-Universidade Federal do Agreste de Pernambuco (UFAPE)
-Carga Horária: 15h
+#### Agrarian Question and Food Sovereignty
+Federal University of Agreste de Pernambuco (UFAPE) ["Universidade Federal do Agreste de Pernambuco (UFAPE)"]
+Workload: 15h
 
-#### Gestão da Estratégia com BSC - Fundamentos
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Strategy Management with BSC - Fundamentals
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+Workload: 20h
 
-#### Introdução à Gestão de Processos
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Introduction to Process Management
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+Workload: 20h
 
-#### Introdução à Gestão de Projetos
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Introduction to Project Management
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+Workload: 20h
 
-#### Pesquisa com usuários: como ouvir cidadãos e empresas para melhorar seus serviços
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### User research: how to listen to citizens and companies to improve your services
+National School of Public Administration ["Escola Nacional de Administração Pública (Enap)"] 
+Workload: 20h
 
-#### Tecnologias livres: memórias, narrativas e tecnologias negras  
-Instituto Procomum
-Carga Horária: 15h
+#### Free technologies: memories, narratives and black technologies
+Procomum Institute   
+Workload: 15h
 
 ---
 ## 2019
 
-#### Oficina de narrativa fotográfica
-Universidade Federal do Rio Grande do Sul
-Carga Horária: 6h
+#### Photographic Narrative Course
+Rio Grande do Sul Federal University
+Workload: 6h
 
 #### Entrevistas Narrativas Biográficas: Condução e Análise
 Sociedade Brasileira de Sociologia; Universidade Federal de Santa Catarina
-Carga Horária: 3h
+Workload: 3h
 
 ---
 ## 2018
-#### Workshop Big Data, Informação e a Dinâmica da Formação de Opiniões: um estudo
-Universidade Estadual Paulista Júlio de Mesquita Filho
-Carga Horária: 3h
+#### Workshop "Big Data, Information and the Dynamics of Opinion Formation: a study"
+São Paulo State University 
+Workload: 3h
 
-#### Oficina de Fotografia
-Programa de Educação Tutorial de Ciências Sociais, PET-CS
-Carga Horária: 12h
+#### Photography Workshop
+Tutorial Education Program of Social Sciences undergraduate course at São Paulo State University 
+Workload: 12h
 
 ---
 ## 2015
 
-#### Extensão universitária em Cinema e Pensamento Social
-Universidade Estadual Paulista Júlio de Mesquita Filho
-Carga Horária: 4h
+#### University Extension Program in Cinema and Social Thought ["Extensão universitária em Cinema e Pensamento Social"]
+São Paulo State University (Marília, São Paulo, Brazil)
+Workload: 4h
 
 ---
 ## 2013
 
-#### Manutenção de Microcomputadores
-Serviço Nacional de Aprendizagem Comercial- Santos-SP (SENAC)
-Carga Horária: 40h
+#### Microcomputer Maintance
+National Commercial Apprenticeship Service (Santos, São Paulo, Brazil)["Serviço Nacional de Aprendizagem Comercial -  SENAC"]
+Workload: 40h
 
 ----
 ## 2009-2010
 
-#### Programa de Música e Orquestra
-Instituto Pão de Açúcar (IPA)
-Carga Horária: 176h
+#### Music and Orchestra Educational Program (Viola)
+*Pão de Açúcar* Institute (IPA)
+Workload: 176h

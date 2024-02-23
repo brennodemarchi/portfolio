@@ -3,7 +3,7 @@ indentation: "2"
 ---
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-Avaiable at: https://www.youtube.com/embed/eyckuFLYndw
+Available at: https://www.youtube.com/embed/eyckuFLYndw
 
 # Context
 
@@ -13,7 +13,7 @@ This short film is part of the Competitive Exhibition “Meu Olhar – Filmes cu
 
 The documentary reflects on the trajectory of a northeastern worker in the midst of the Brazilian military dictatorship in the city of Cubatão, a municipality in the state of São Paulo-Brazil, through unseen archive images and videos. 
 
-# Ficha Técnica
+# Catalog Information
 
 **Filmed color:** black and white  
 **Origin:** Brazil
@@ -22,12 +22,12 @@ The documentary reflects on the trajectory of a northeastern worker in the midst
 **Duration:** 5min
 **Rating:** free
 
-# The Team
+# Credits
 
 **Direction, Treatment and Research:** Douglas Gadelha Sá
 **Director of Photography:** Rodrigo Samia
 **Editing:** Leandro Olimpio
-**Mixing and Sound:** Brenno Brandalise Demarchi
+**Mixing and Sound Design:** Brenno Brandalise Demarchi
 
 # Tools and Technologies
 
