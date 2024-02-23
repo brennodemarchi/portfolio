@@ -6,11 +6,9 @@ indentation: "1"
 > [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
 
 
-
-
 >[!faq] Seções
 
-* [[content/pt-br/pesquisas/Antropologia das Infraestruturas|Antropologia das Infraestruturas]] 
+* [[content/pt-br/pesquisas/Antropologia das Infraestruturas|Antropologia das Infraestruturas]] 
 * [[content/pt-br/pesquisas/Antropologia do Som e Etnografias Sonoras|Antropologia do Som e Etnografias Sonoras]] 
 * [[content/pt-br/pesquisas/Etnografar a ecologia dos jogos|Etnografar a ecologia dos jogos]] 
 * [[content/pt-br/pesquisas/Etnografias Multiespécies|Etnografias Multiespécies]]
