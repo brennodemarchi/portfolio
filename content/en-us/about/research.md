@@ -8,12 +8,14 @@ indentation: "1"
 >[!faq] Topics
 > (for now only available in Brazilian Portuguese)
 
-* [[content/pt-br/pesquisas/Antropologia das Infraestruturas|Antropologia das Infraestruturas]] 
-* [[content/pt-br/pesquisas/Antropologia do Som e Etnografias Sonoras|Antropologia do Som e Etnografias Sonoras]] 
-* [[content/pt-br/pesquisas/Etnografar a ecologia dos jogos|Etnografar a ecologia dos jogos]] 
-* [[content/pt-br/pesquisas/Etnografias Multiespécies|Etnografias Multiespécies]]
-* [[content/pt-br/pesquisas/Jardins Digitais|Jardins Digitais]]
-* [[content/pt-br/pesquisas/Metodologias de Autogestão|Metodologias de Autogestão]]
+* [[Antropologia das Infraestruturas]] 
+* [[Antropologia do Som e Etnografias Sonoras]] 
+* [[Etnografias Multiespécies]] 
+* [[Etnografar a ecologia dos jogos]]
+* [[Jardins Digitais|Jardins Digitais]]
+* [[Metodologias de Autogestão]]
+
+
 
 
 

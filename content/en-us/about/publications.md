@@ -6,7 +6,7 @@ indentation: "1"
 
 # 2024
 
-DEMARCHI, Brenno B.; OLIVEIRA, Wesley V. Reinventing the city: reflections on the Hip Hop movement and its political insurgencies["Reinventar a cidade: reflexões sobre o movimento Hip Hop e suas insurgências políticas"]. **Sociologias Plurais**, v. 10, n. 1, p. 32-50, jan. 2024. ISSN: 2316-9249. Available in Brazilian Portuguese at: https://revistas.ufpr.br/sclplr/article/view/94244; DOI: https://revistas.ufpr.br/sclplr/article/view/94245. Mais informações [[Artigo - Reinventar a cidade - Revista Sociologias Plurais - 2024|neste link]].
+DEMARCHI, Brenno B.; OLIVEIRA, Wesley V. Reinventing the city: reflections on the Hip Hop movement and its political insurgencies["Reinventar a cidade: reflexões sobre o movimento Hip Hop e suas insurgências políticas"]. **Sociologias Plurais**, v. 10, n. 1, p. 32-50, jan. 2024. ISSN: 2316-9249. Available in Brazilian Portuguese at: https://revistas.ufpr.br/sclplr/article/view/94244; DOI: https://revistas.ufpr.br/sclplr/article/view/94245. Mais informações [[Article - Reinventing the City (2024)|neste link]].
 
 # 2023
 
@@ -14,15 +14,15 @@ RIAL, Carmen S. M.; TORRES, Natalia P.; ROSABAL, Damaris R.; RODRIGUEZ, Cristhia
 
 DEMARCHI, Brenno B. Cybernetic and infrastructural reflections on the plurality of water. In: "XIV Brazilian Mercosur Anthropology Meeting" [**"XIV Reunião Brasileira de Antropologia do Mercosul"**], Niterói, 2023. Available in Brazilian Portuguese at: https://www.ram2023.sinteseeventos.com.br/arquivo/downloadpublic?q=YToyOntzOjY6InBhcmFtcyI7czozNToiYToxOntzOjEwOiJJRF9BUlFVSVZPIjtzOjQ6IjYzODkiO30iO3M6MToiaCI7czozMjoiOTk5NTJhODM5ZTczYzRjNGM0OTA5OWIwYmI4YzdmMjYiO30%3D. [^1]
 
-DEMARCHI, Brenno B. **Anthropological reflections on the plurality of water and its infrastructures**. Advisor: Dr. Viviane Vedana. 2023. 200p. Master Thesis (Master Degree in Social Anthropology) - Postgraduate Program in Social Anthropology, Center for Philosophy and Human Sciences, Federal University of Santa Catarina, Florianópolis, 2023. Available in Brazilian Portuguese at: https://repositorio.ufsc.br/handle/123456789/247633. For more info [[Dissertação - Antropologia Social (2023)|click here]].
+DEMARCHI, Brenno B. **Anthropological reflections on the plurality of water and its infrastructures**. Advisor: Dr. Viviane Vedana. 2023. 200p. Master Thesis (Master Degree in Social Anthropology) - Postgraduate Program in Social Anthropology, Center for Philosophy and Human Sciences, Federal University of Santa Catarina, Florianópolis, 2023. Available in Brazilian Portuguese at: https://repositorio.ufsc.br/handle/123456789/247633. For more info [[Master Thesis - Social Anthropology (2023)|click here]].
 
 # 2021
 
-Bertho, Renan Moretti, Alexsânder Nakaóka Elias, Brenno Brandalise Demarchi, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Luiz Henrique Campos Pereira, e Noelle Rodrigues Ventura. 2021. Listening to the Headphones, Hearing the City: Towards and Audio-visual Representation of the Local Musicking / [“Um Ouvido No Fone E O Outro Na Cidade: Por Uma representação Audiovisual Do Musicar Local”]. **GIS - Gesture, Image and Sound - Anthropology Magazine of the University of São Paulo** ["**GIS - Gesto, Imagem E Som - Revista De Antropologia**"], 6 (1). São Paulo, Brazil:e-176158. Available in Brazilian Portuguese and English at: https://www.revistas.usp.br/gis/article/view/176158; DOI: https://doi.org/10.11606/issn.2525-3123.gis.2021.176158. For more info [[Artigo - Um Fone no Ouvido e o Outro na Cidade - Revista GIS - 2021|click here]].
+Bertho, Renan Moretti, Alexsânder Nakaóka Elias, Brenno Brandalise Demarchi, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Luiz Henrique Campos Pereira, e Noelle Rodrigues Ventura. 2021. Listening to the Headphones, Hearing the City: Towards and Audio-visual Representation of the Local Musicking / [“Um Ouvido No Fone E O Outro Na Cidade: Por Uma representação Audiovisual Do Musicar Local”]. **GIS - Gesture, Image and Sound - Anthropology Magazine of the University of São Paulo** ["**GIS - Gesto, Imagem E Som - Revista De Antropologia**"], 6 (1). São Paulo, Brazil:e-176158. Available in Brazilian Portuguese and English at: https://www.revistas.usp.br/gis/article/view/176158; DOI: https://doi.org/10.11606/issn.2525-3123.gis.2021.176158. For more info [[Article - Listening to the Phone, Hearing the City (2021)|click here]].
 
 # 2018
 
-DEMARCHI, Brenno B. **Not so far, not so close:** an ethnophotography of Marília, São Paulo. Advisor: Dr. Christina de Rezende Rubim. 2018. 99p. Undergraduate Thesis (Bachelor Degree in Social Sciences) - Faculty of Philosophy and Sciences, São Paulo State University "Júlio de Mesquita Filho", Marília, 2018. Available in Brazilian Portuguese at: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado. For more info [[Monografia - Ciências Sociais (2018)|click here]].
+DEMARCHI, Brenno B. **Not so far, not so close:** an ethnophotography of Marília, São Paulo. Advisor: Dr. Christina de Rezende Rubim. 2018. 99p. Undergraduate Thesis (Bachelor Degree in Social Sciences) - Faculty of Philosophy and Sciences, São Paulo State University "Júlio de Mesquita Filho", Marília, 2018. Available in Brazilian Portuguese at: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado. For more info [[Undergraduate Thesis - Social Sciences (2018)|click here]].
 
 ---
 
