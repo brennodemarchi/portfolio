@@ -4,10 +4,10 @@ indentation: "2"
 
 ![[artigo-umouvidonofone-revistagis.png]]Disponível em: https://www.revistas.usp.br/gis/article/view/176158.
 
-# Resumo
+# Abstract
 
-O presente artigo discute a utilização do audiovisual para representar as características e as possibilidades de um musicar local. Ao observar o processo de criação do documentário _Um ouvido no fone e o outro na cidade_, os(as) autores(as) refletem sobre os usos e as funções da música, bem como sobre o engajamento musical e a relação de escuta dos(as) _riders_ – entregadores(as) de comida por aplicativo. Esses(as) profissionais são brasileiras e brasileiros que moram em Dublin e que têm a música como parte essencial da sua rotina de trabalho. Nesse sentido, nossa questão é: como representar as diversidades e as contradições desse musicar local? Argumentamos que, por meio das etapas coletivas de desenvolvimento e criação desse documentário, os(as) realizadores(as) expressam não apenas o engajamento dos(as) _riders_ com a música, mas também constroem uma representação sensorial do musicar que perpassa as relações de trabalho, de afeto e de localidade.
+This essay discusses the use of audio-visual to represent the characteristics and possibilities of local musicking. When observing the process of creating the documentary Um ouvido no fone e o outro na cidade, the authors reflect on the uses and functions of music, as well as on the musical engagement and listening relationship of the riders – food deliverers by apps. These professionals are Brazilians who live in Dublin and who have music as an essential part of their work routine. In this sense, our question is: how to represent the diversity and contradictions of this local musicking? We argue that, through the collective stages of development and creation of this documentary, the directors express not only the engagement of the riders with the music, but also build a sensory representation of the music that runs through the relationships of work, affection and locality.
 
 # Palavras-chave
 
-Musicar local, Documentário, Riders, Produção coletiva, Narrativa audiovisual
+Local musicking; Documentary; Riders; Collective production; Audio-visual narrative.
