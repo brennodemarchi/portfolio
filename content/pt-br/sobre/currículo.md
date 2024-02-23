@@ -8,7 +8,7 @@ indentation: "1"
 
 ---
 
-Doutorando em Antropologia Social pela Universidade Federal de Santa Catarina. Produtor Cultural independente. 
+Doutorando em Antropologia Social pela Universidade Federal de Santa Catarina. Produtor Cultural independente.  
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
