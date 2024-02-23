@@ -13,7 +13,7 @@ indentation: "0"
 
 > [!text] Isto não é um currículo, apesar de ser
 
-Inspirado nos princípios dos [[content/pt-br/pesquisas/Jardins Digitais|jardins digitais]], eu gostaria que meu site fosse uma representação viva dos trabalhos que venho desenvolvendo ao invés de uma página estática que dificilmente me representaria. 
+Inspirado nos princípios dos [[Jardins Digitais|jardins digitais (digital gardens)]], eu gostaria que meu site fosse uma representação viva dos trabalhos que venho desenvolvendo ao invés de uma página estática que dificilmente me descreveria. 
 
 Por isso, tomei como desafio projetar um site que possa ser vasculhado de acordo com os interesses de cada pessoa, apontando inicialmente apenas alguns locais como ponto de partida para a sua trilha:
 
