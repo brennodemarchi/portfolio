@@ -21,7 +21,7 @@ UM OUVIDO NO FONE E O OUTRO NA CIDADE. Realização de: Alexsânder Nakaóka Eli
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-POEMAS SOPRADOS PELO VENTO NOROESTE. Proponente, roteiro, poemas, locução, câmera e produção: Ademir Demarchi. Direção, som direto e edição de vídeo e som: Brenno Brandalise Demarchi. Ademir Demarchi (Youtube; Spotify), 10 fev. 2021. Disponível em: https://www.youtube.com/watch?v=uufGfdThMHk (YouTube); https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 (Spotify). Mais informações [[content/pt-br/projetos/Vídeo - Inclusive - Redes Comunitárias para Ambientes Virtuais de Aprendizagem - 2020|neste link]].
+POEMAS SOPRADOS PELO VENTO NOROESTE. Proponente, roteiro, poemas, locução, câmera e produção: Ademir Demarchi. Direção, som direto e edição de vídeo e som: Brenno Brandalise Demarchi. Ademir Demarchi (Youtube; Spotify), 10 fev. 2021. Disponível em: https://www.youtube.com/watch?v=uufGfdThMHk (YouTube); https://open.spotify.com/episode/5Xja2CWPD4MDux6iViGXXI?go=1&sp_cid=780325d8f007aadc0f84744a9071d81d&utm_source=embed_player_p&utm_medium=desktop&nd=1&dlsi=18b5caccb0274c13 (Spotify). Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
 ---
 # 2020
