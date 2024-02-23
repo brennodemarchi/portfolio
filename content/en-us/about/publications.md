@@ -14,7 +14,7 @@ RIAL, Carmen S. M.; TORRES, Natalia P.; ROSABAL, Damaris R.; RODRIGUEZ, Cristhia
 
 DEMARCHI, Brenno B. Reflexões cibernéticas e infraestruturais sobre a pluralidade da água. In: **"XIV Reunião Brasileira de Antropologia do Mercosul"**, Niterói, 2023. Disponível em: https://www.ram2023.sinteseeventos.com.br/arquivo/downloadpublic?q=YToyOntzOjY6InBhcmFtcyI7czozNToiYToxOntzOjEwOiJJRF9BUlFVSVZPIjtzOjQ6IjYzODkiO30iO3M6MToiaCI7czozMjoiOTk5NTJhODM5ZTczYzRjNGM0OTA5OWIwYmI4YzdmMjYiO30%3D. [^1]
 
-DEMARCHI, Brenno B. **Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas**. Orientação: Viviane Vedana. 2023. 200p. Dissertação (Mestrado em Antropologia Social) - Programa de Pós-Graduação em Antropologia Social, Centro de Filosofia e Ciências Humanas, Universidade Federal de Santa Catarina, Florianópolis, 2023. Disponível em: https://repositorio.ufsc.br/handle/123456789/247633. Mais informações [[Dissertação - Antropologia Social - UFSC - 2023|neste link]].
+DEMARCHI, Brenno B. **Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas**. Orientação: Viviane Vedana. 2023. 200p. Dissertação (Mestrado em Antropologia Social) - Programa de Pós-Graduação em Antropologia Social, Centro de Filosofia e Ciências Humanas, Universidade Federal de Santa Catarina, Florianópolis, 2023. Disponível em: https://repositorio.ufsc.br/handle/123456789/247633. Mais informações [[Dissertação - Antropologia Social - UFSC (2023)|neste link]].
 
 # 2021
 
@@ -22,7 +22,7 @@ Bertho, Renan Moretti, Alexsânder Nakaóka Elias, Brenno Brandalise Demarchi, A
 
 # 2018
 
-DEMARCHI, Brenno B. **Nem tão longe, nem tão perto:** uma etnofotografia de Marília, São Paulo. Orientação: Christina de Rezende Rubim. 2018. 99p. Monografia (Bacharelado em Ciências Sociais) - Faculdade de Filosofia e Ciências, Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília, 2018. Disponível em: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado. Mais informações [[Monografia - Ciências Sociais - UNESP - 2018|neste link]].
+DEMARCHI, Brenno B. **Nem tão longe, nem tão perto:** uma etnofotografia de Marília, São Paulo. Orientação: Christina de Rezende Rubim. 2018. 99p. Monografia (Bacharelado em Ciências Sociais) - Faculdade de Filosofia e Ciências, Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília, 2018. Disponível em: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado. Mais informações [[Monografia - Ciências Sociais - UNESP (2018)|neste link]].
 
 ---
 

@@ -17,7 +17,7 @@ CHICO VOLTOU SÓ. Direção, Argumento e Pesquisa: Douglas Gadelha Sá. Direçã
 
 <iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - filme resultante da 7ª Oficina do NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-UM OUVIDO NO FONE E O OUTRO NA CIDADE. Realização de: Alexsânder Nakaóka Elias, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Brenno Brandalise Demarchi, Luiz Henrique Campos Pereira, Noelle Rodrigues Ventura e Renan Moretti Bertho. ICNOVA Conhecimento (Youtube), 2021. Disponível em: https://www.youtube.com/watch?v=w-zDKlyX9T4. (Selecionado para a _I Mostra de Filmes Etnográficos_ da Universidade Federal do Rio Grande do Norte – UFRN/Natal).  Mais informações [[Documentário - Um Fone no Ouvido e o Outro na Cidade - 2020|neste link]].
+UM OUVIDO NO FONE E O OUTRO NA CIDADE. Realização de: Alexsânder Nakaóka Elias, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Brenno Brandalise Demarchi, Luiz Henrique Campos Pereira, Noelle Rodrigues Ventura e Renan Moretti Bertho. ICNOVA Conhecimento (Youtube), 2021. Disponível em: https://www.youtube.com/watch?v=w-zDKlyX9T4. (Selecionado para a _I Mostra de Filmes Etnográficos_ da Universidade Federal do Rio Grande do Norte – UFRN/Natal).  Mais informações [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020)|neste link]].
 
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>

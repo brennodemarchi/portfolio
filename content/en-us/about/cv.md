@@ -31,7 +31,7 @@ Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
 Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
 *Advisor:* Dr. Viviane Vedana
 *Examination Board:* Letícia Cesarino (UFSC) e Cornelia Eckert (UFRGS)
-*Master Thesis Title:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). For more information [[Software - GESTCOM - Gestão Comercial - ETEC - 2014|click here]].
+*Master Thesis Title:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
 ##### *2015-2019* | Teaching License degree in Social Sciences
 São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Brazil.
@@ -40,11 +40,11 @@ São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Br
 ##### *2015-2018* | Bachelor in Social Sciences
 São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Brazil.
 *Advisor:* Dr. Christina de Rezende Rubim
-*Bachelor Monograph Title:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). For more information [[Software - GESTCOM - Gestão Comercial - ETEC - 2014|click here]].
+*Bachelor Monograph Title:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
 ##### *2013-2014* | Technical Course in Informatics
 São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, Brazil
-*Título:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Gestão Comercial - ETEC - 2014|click here]].
+*Título:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
 ---
 # Experiências Profissionais
@@ -53,7 +53,7 @@ São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, B
 
 **2021** | Estágio Docência na disciplina "Tutorial Optativa IV - Antropologia e Som", sob supervisão da Prof.ª Dr.ª Viviane Vedana, no curso de Bacharelado em Antropologia da Universidade Federal de Santa Catarina (UFSC)
 
-**2019-2021** | Podcast de Marte: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponível em: https://linktr.ee/podcastdemarte. For more information [[Software - GESTCOM - Gestão Comercial - ETEC - 2014|click here]].
+**2019-2021** | Podcast de Marte: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponível em: https://linktr.ee/podcastdemarte. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
 **2019** | Monitoria na disciplina "Introdução à Antropologia", 
 Monitoria selecionada através de processo seletivo, na disciplina de Introdução à Antropologia, do primeiro ano do curso de Ciências Sociais, da Faculdade de Filosofia e Ciências da Universidade Estadual Paulista (Unesp), supervisionado pelo Prof. Dr. Antonio Mendes da Costa Braga.

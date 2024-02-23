@@ -33,7 +33,7 @@ Universidade Federal de Santa Catarina (UFSC), Florianópolis-SC
 Universidade Federal de Santa Catarina (UFSC), Florianópolis-SC
 *Orientação:* Prof.ª Dr.ª Viviane Vedana
 *Banca Examinadora:* Letícia Cesarino (UFSC) e Cornelia Eckert (UFRGS)
-*Título:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). Mais informações [[Dissertação - Antropologia Social - UFSC - 2023|neste link]].
+*Título:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). Mais informações [[Dissertação - Antropologia Social - UFSC (2023)|neste link]].
 
 ##### *2015-2019* | Licenciatura em Ciências Sociais
 Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília-SP.
@@ -42,11 +42,11 @@ Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília-SP.
 ##### *2015-2018* | Bacharelado em Ciências Sociais
 Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília-SP
 *Orientação:* Prof.ª Dr.ª Christina de Rezende Rubim
-*Título:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). Mais informações [[Monografia - Ciências Sociais - UNESP - 2018|neste link]]
+*Título:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). Mais informações [[Monografia - Ciências Sociais - UNESP (2018)|neste link]]
 
 ##### *2013-2014* | Técnico em Informática
 Escola Técnica Aristóteles Ferreira, Santos-SP
-*Título:* GESTCOM - Software para Gestão Comercial de Estabelecimentos Alimentícios. Mais informações [[Software - GESTCOM - Gestão Comercial - ETEC - 2014|neste link]]
+*Título:* GESTCOM - Software para Gestão Comercial de Estabelecimentos Alimentícios. Mais informações [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|neste link]]
 
 ---
 # Experiências Profissionais
