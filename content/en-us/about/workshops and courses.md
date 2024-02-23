@@ -12,9 +12,9 @@ The video lesson "How to produce and edit your podcast" was produced and distrib
 
 # 2021
 
-## Oficina de Produção e Divulgação de Podcasts de Poesia (Lei Aldir Blanc - Prêmio Alcides Mesquita 2020)
+## Workshop on Production and Distribution of Poetry Podcasts (supported with Brazilian public funding from the "Lei Aldir Blanc - Prêmio Alcides Mesquita 2020" notice)
 
-A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita 2020, da Prefeitura Municipal de Santos e do Governo Federal. Mais informações [[Oficina de Podcast - Aldir Blanc (2021)|neste link]].
+The workshop on "Production and Distribution of Poetry Podcasts" was held with the financial support of the "Aldir Blanc Law – Alcides Mesquita Award 2020", managed by the Municipality of Santos and the Federal Government. For more info [[Oficina de Podcast - Aldir Blanc (2021)|click here]].
 
 # 2020
 
