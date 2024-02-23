@@ -8,6 +8,7 @@ Disponível em: https://labdeemergencia.silo.org.br/2ed/pt/ambientes-virtuais/
 <iframe title="Inclusive | 2ed LABORATÓRIO DE EMERGÊNCIA | COVID–19" src="https://www.youtube.com/embed/x3ezYRKeA84?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 Disponível em: https://www.youtube.com/watch?v=x3ezYRKeA84
+
 # Sobre
 
 Vídeo institucional produzido para o projeto “Inclusive – Redes Comunitárias para Ambientes Virtuais de Aprendizagem” durante a 2ª edição do “Laboratório de Emergência – COVID–19 – Reconfigurando o Futuro”, uma iniciativa da Silo – Arte e Latitude Rural em parceria com outras instituições, coletivos e labóratórios, entre 15 à 21 de Junho de 2020.
@@ -25,17 +26,17 @@ Também foi criada uma cartilha instrutiva sobre o conceito e implementação do
 
 ### Colaboradoras:
 
-Andrey Borges Bernardes
-Aparecida Torrecillas
-Bernardo Baião
-Brenno Brandalise Demarchi
-Cristiano Tavares
-Mariana Almeida Zani (Mediação)
+- Andrey Borges Bernardes
+- Aparecida Torrecillas
+- Bernardo Baião
+- Brenno Brandalise Demarchi
+- Cristiano Tavares
+- Mariana Almeida Zani (Mediação)
 
 # Ferramentas e Tecnologias
 
-**Edição de Áudio:** Tenacity
-**Edição de Vídeo:** Kdenlive
+- **Edição de Áudio:** Tenacity
+- **Edição de Vídeo:** Kdenlive
 
 # Na Mídia
 
