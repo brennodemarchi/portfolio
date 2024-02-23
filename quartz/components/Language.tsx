@@ -3,17 +3,16 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 
-const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
-  const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
-  const baseDir = pathToRoot(fileData.slug!)
+const Lang: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
+  const language = "PT-BR EN-US"
   return (
     <h1 class={classNames(displayClass, "lang")}>
-      <a href={baseDir}>PT-BR</a>
+      <a>{language}</a>
     </h1>
   )
 }
 
-PageTitle.css = `
+Lang.css = `
 .lang {
   margin: 0;
 }
