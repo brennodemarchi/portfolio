@@ -63,6 +63,21 @@ Monitoria selecionada através de processo seletivo, na disciplina de Introduç�
 **2010-2011** | Bolsista na Orquestra Instituto Pão de Açúcar - Modalidade: Violista (Viola de Arco)
 
 ---
+# Prêmios e Realizações
+
+## 2021
+
+### ProAc Expresso Direto nº 39/2021
+
+A videoaula "Como produzir e editar o seu podcast" foi produzida e distribuída gratuitamente como contrapartida pelo prêmio dado pela Secretaria de Cultura e Economia Criativa do Governo do Estado de São Paulo através do ProAc Expresso Direto n.º 39/2021, à profissionais do setor cultural criativo. Mais informações [[Videoaula - Produção e Edição de Podcast - ProAc Expresso Direto (2021)|neste link]] e também na seção "[[oficinas e cursos]]".
+
+## 2020
+
+### Lei Aldir Blanc - Prêmio Alcides Mesquisa 2020
+
+A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita 2020, da Prefeitura Municipal de Santos e do Governo Federal. Mais informações [[Oficina de Podcast - Aldir Blanc (2021)|neste link]] e também na seção "[[oficinas e cursos]]".
+
+---
 # Grupos de Estudos e Pesquisas
 
 
