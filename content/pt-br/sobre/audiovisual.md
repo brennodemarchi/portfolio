@@ -10,7 +10,7 @@ indentation: "1"
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-CHICO VOLTOU SÓ. Direção, Argumento e Pesquisa: Douglas Gadelha Sá. Direção de Fotografia: Rodrigo Samia. Montagem: Leandro Olimpio. Mixagem e Som: Brenno Brandalise Demarchi. **Canal Futura (Youtube)**, 2023. Disponível em: https://www.youtube.com/watch?v=eyckuFLYndw. (*Finalista da Mostra Competitiva do projeto “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo”, iniciativa da Organização dos Estados Iberoamericanos (OEI), da Fundação Roberto Marinho (FRM) e da Empresa de Cinema e Audiovisual de São Paulo S.A (Spcine), estando disponível na Globo Play e Canal Futura.*). Mais informações [[Documentário - Chico Voltou Só - 2023|neste link]].
+CHICO VOLTOU SÓ. Direção, Argumento e Pesquisa: Douglas Gadelha Sá. Direção de Fotografia: Rodrigo Samia. Montagem: Leandro Olimpio. Mixagem e Som: Brenno Brandalise Demarchi. **Canal Futura (Youtube)**, 2023. Disponível em: https://www.youtube.com/watch?v=eyckuFLYndw. (*Finalista da Mostra Competitiva do projeto “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo”, iniciativa da Organização dos Estados Iberoamericanos (OEI), da Fundação Roberto Marinho (FRM) e da Empresa de Cinema e Audiovisual de São Paulo S.A (Spcine), estando disponível na Globo Play e Canal Futura.*). Mais informações [[Documentário - Chico Voltou Só (2023)|neste link]].
 
 ---
 # 2021
@@ -30,6 +30,6 @@ POEMAS SOPRADOS PELO VENTO NOROESTE. Proponente, roteiro, poemas, locução, câ
 <iframe title="Inclusive | 2ed LABORATÓRIO DE EMERGÊNCIA | COVID–19" src="https://www.youtube.com/embed/x3ezYRKeA84?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 INCLUSIVE - Redes Comunitárias para Ambientes Virtuais de Aprendizagem. 
-Proponentes: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges. Colaboradoras: Andrey Borges Bernardes, Aparecida Torrecillas,  Bernardo Baião, Brenno Brandalise Demarchi, Cristiano Tavares. Mediação: Mariana Almeida Zani. Silo Arte e Latitude Rural (Youtube), 21 jun. 2020. Disponível em: https://www.youtube.com/watch?v=x3ezYRKeA84. Mais informações [[Vídeo - Inclusive - Redes Comunitárias para Ambientes Virtuais de Aprendizagem - 2020|neste link]].
+Proponentes: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges. Colaboradoras: Andrey Borges Bernardes, Aparecida Torrecillas,  Bernardo Baião, Brenno Brandalise Demarchi, Cristiano Tavares. Mediação: Mariana Almeida Zani. Silo Arte e Latitude Rural (Youtube), 21 jun. 2020. Disponível em: https://www.youtube.com/watch?v=x3ezYRKeA84. Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
 ---

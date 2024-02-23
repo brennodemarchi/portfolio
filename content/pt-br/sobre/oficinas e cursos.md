@@ -7,7 +7,7 @@ indentation: "1"
 
 # 2022
 
-A videoaula "Como produzir e editar o seu podcast" foi produzida e distribuída gratuitamente como contrapartida pelo prêmio dado pela Secretaria de Cultura e Economia Criativa do Governo do Estado de São Paulo através do ProAc Expresso Direto n.º 39/2021, à profissionais do setor cultural criativo. Mais informações [[content/pt-br/projetos/Videoaula - Produção e Edição de Podcast - ProAc Expresso Direto - 2021|neste link]].
+A videoaula "Como produzir e editar o seu podcast" foi produzida e distribuída gratuitamente como contrapartida pelo prêmio dado pela Secretaria de Cultura e Economia Criativa do Governo do Estado de São Paulo através do ProAc Expresso Direto n.º 39/2021, à profissionais do setor cultural criativo. Mais informações [[Videoaula - Produção e Edição de Podcast - ProAc Expresso Direto (2021)|neste link]].
 
 # 2021
 

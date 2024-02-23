@@ -6,7 +6,7 @@ indentation: "1"
 > [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
 # 2024
 
-DEMARCHI, Brenno B.; OLIVEIRA, Wesley V. Reinventar a cidade: reflexões sobre o movimento Hip Hop e suas insurgências políticas. **Sociologias Plurais**, v. 10, n. 1, p. 32-50, jan. 2024. ISSN: 2316-9249. Disponível em: https://revistas.ufpr.br/sclplr/article/view/94244; DOI: https://revistas.ufpr.br/sclplr/article/view/94245. Mais informações [[Artigo - Reinventar a cidade - Revista Sociologias Plurais - 2024|neste link]].
+DEMARCHI, Brenno B.; OLIVEIRA, Wesley V. Reinventar a cidade: reflexões sobre o movimento Hip Hop e suas insurgências políticas. **Sociologias Plurais**, v. 10, n. 1, p. 32-50, jan. 2024. ISSN: 2316-9249. Disponível em: https://revistas.ufpr.br/sclplr/article/view/94244; DOI: https://revistas.ufpr.br/sclplr/article/view/94245. Mais informações [[Artigo - Reinventar a cidade (2024)|neste link]].
 
 # 2023
 
@@ -18,7 +18,7 @@ DEMARCHI, Brenno B. **Reflexões antropológicas sobre a pluralidade da água e 
 
 # 2021
 
-Bertho, Renan Moretti, Alexsânder Nakaóka Elias, Brenno Brandalise Demarchi, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Luiz Henrique Campos Pereira, e Noelle Rodrigues Ventura. 2021. “Um Ouvido No Fone E O Outro Na Cidade: Por Uma representação Audiovisual Do Musicar Local”. **GIS - Gesto, Imagem E Som - Revista De Antropologia**, 6 (1). São Paulo, Brasil:e-176158. Disponível em: ; DOI: https://doi.org/10.11606/issn.2525-3123.gis.2021.176158. Mais informações [[Artigo - Um Fone no Ouvido e o Outro na Cidade - Revista GIS - 2021|neste link]].
+Bertho, Renan Moretti, Alexsânder Nakaóka Elias, Brenno Brandalise Demarchi, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Luiz Henrique Campos Pereira, e Noelle Rodrigues Ventura. 2021. “Um Ouvido No Fone E O Outro Na Cidade: Por Uma representação Audiovisual Do Musicar Local”. **GIS - Gesto, Imagem E Som - Revista De Antropologia**, 6 (1). São Paulo, Brasil:e-176158. Disponível em: ; DOI: https://doi.org/10.11606/issn.2525-3123.gis.2021.176158. Mais informações [[Artigo - Um Fone no Ouvido e o Outro na Cidade (2021)|neste link]].
 
 # 2018
 
