@@ -8,35 +8,56 @@ I'm glad you're here. Thanks for taking an interest in my adventures!
 
 The best way to get in touch with me is by email, but you can follow my work on social media, even though I do not post much there.
 
-**Email:** brennodemarchi@gmail.com
+| ![[email.png\|40]] | **Email** | [[mailto:brennodemarchi@gmail.com\|brennodemarchi@gmail.com]] |
+| :----------------: | :-------: | :-----------------------------------------------------------: |
 
 ---
 ## For general use
 
-* ***Instagram:** [@brennodemarchi](https://www.instagram.com/brennodemarchi/)
-* ***Reddit:** [u/brennodemarchi](https://www.reddit.com/user/brennodemarchi/)
+| ![[instagram.png\|40]] | **Instagram** |  [@brennodemarchi](https://www.instagram.com/brennodemarchi/)   |
+| :--------------------: | :-----------: | :-------------------------------------------------------------: |
+|  ![[reddit.png\|40]]   |  **Reddit**   | [u/brennodemarchi](https://www.reddit.com/user/brennodemarchi/) |
+|   ![[imdb.png\|40]]    |   **IMDB**    |     [brennodemarchi](https://www.imdb.com/user/ur43026569)      |
+
+## For gaming purposes
+
+| ![[discord.png\|40]] | **Discord** | [br2n#5451](https://discord.com/users/br2n) |
+| :------------------: | :---------: | :-----------------------------------------: |
+|  ![[steam.png\|40]]  |  **Steam**  | [br2n](https://steamcommunity.com/id/br2n/) |
 
 ---
 ## For academic or professional purposes
 
+  
+  For recent activities, I usually include quick access links on my Linktree page, which is a link aggregator. You can access it at the link below:
+   
+| ![[linktree.png\|40]] | **Linktree** | [brennodemarchi](https://linktr.ee/brennodemarchi) |
+| :-------------------: | :----------: | :------------------------------------------------: |
+   
+   
 ### CVs 
 
-* **Lattes CNPq (created and maintained by Brazilian Government):** http://lattes.cnpq.br/5599778124078031
-* **ORCID:** https://orcid.org/0000-0001-9701-1336 
-* **Linkedin:** [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/)
-* **Linktree (link aggregator):** [brennodemarchi](https://linktr.ee/brennodemarchi)
-
----
+| ![[linkedin.png\|40]] |          LinkedIn          | [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/) |
+| :-------------------: | :------------------------: | :---------------------------------------------------------------: |
+|  ![[lattes.png\|40]]  |         **Lattes**         |              http://lattes.cnpq.br/5599778124078031               |
+|  ![[orcid.png\|40]]   |         **ORCID**          |              [https://orcid.org/0000-0001-9701-1336               |
+   
+   
 ### Publications
-
-* **AcademiaEdu:** [Brenno B. Demarchi](https://ufsc.academia.edu/BrennoDemarchi)
-* **ResearchGate:**[ Brenno Brandalise Demarchi](https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi)
-
----
+   
+   
+| ![[academiaedu.png\|40]]  | **AcademiaEdu** |                [Brenno B. Demarchi](https://ufsc.academia.edu/BrennoDemarchi)                 |
+| :-----------------------: | :-------------: | :-------------------------------------------------------------------------------------------: |
+| ![[researchgate.png\|40]] |  ResearchGate   | [Brenno Brandalise Demarchi](https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi) |
+   
+   
 ### Projects
 
-* **Behance (Photography):** [brennodemarchi](https://www.behance.net/brennodemarchi)
-* **Youtube (Videos):** [@brennodemarchi](https://www.youtube.com/@brennodemarchi)
-* **GitHub (Coding):** [brennodemarchi](https://github.com/brennodemarchi)
 
+| ![[behance.png\|40]] | **Behance** (photos) |  [brennodemarchi](https://www.behance.net/brennodemarchi)  |
+| :------------------: | :------------------: | :--------------------------------------------------------: |
+| ![[youtube.png\|40]] | **Youtube** (videos) | [@brennodemarchi](https://www.youtube.com/@brennodemarchi) |
+| ![[github.png\|40]]  | **GitHub** (coding)  |    [brennodemarchi](https://github.com/brennodemarchi)     |
+   
+   
 ---

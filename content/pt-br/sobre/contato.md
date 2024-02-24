@@ -9,35 +9,57 @@ Estou contente por você estar aqui. Obrigado por ter se interessado nas minhas 
 
 A melhor forma para entrar em contato comigo é pelo e-mail, mas você pode acompanhar meu trabalho pelas redes sociais, ainda que eu não publique muito por lá.
 
-**Email:** brennodemarchi@gmail.com
+| ![[email.png\|40]] | **Email** | [[mailto:brennodemarchi@gmail.com\|brennodemarchi@gmail.com]] |
+| :----------------: | :-------: | :-----------------------------------------------------------: |
 
 ---
 ## Para uso geral
 
-* **Instagram:** [@brennodemarchi](https://www.instagram.com/brennodemarchi/)
-* **Reddit:** [u/brennodemarchi](https://www.reddit.com/user/brennodemarchi/)
+| ![[instagram.png\|40]] | **Instagram** |  [@brennodemarchi](https://www.instagram.com/brennodemarchi/)   |
+| :--------------------: | :-----------: | :-------------------------------------------------------------: |
+|  ![[reddit.png\|40]]   |  **Reddit**   | [u/brennodemarchi](https://www.reddit.com/user/brennodemarchi/) |
+|   ![[imdb.png\|40]]    |   **IMDB**    |     [brennodemarchi](https://www.imdb.com/user/ur43026569)      |
+
+## Para jogar
+
+| ![[discord.png\|40]] | **Discord** |                  br2n#5451                  |
+| :------------------: | :---------: | :-----------------------------------------: |
+|  ![[steam.png\|40]]  |  **Steam**  | [br2n](https://steamcommunity.com/id/br2n/) |
+
 
 ---
-## Para fins acadêmicos / profissionais
-
+## Para fins acadêmicos / profissionais   
+  
+   
+Para as atividades mais recentes, costumo inserir acessos rápidos na minha página do Linktree, que é um agregador de links. Você pode acessá-la no linka abaixo:
+   
+| ![[linktree.png\|40]] | **Linktree** | [brennodemarchi](https://linktr.ee/brennodemarchi) |
+| :-------------------: | :----------: | :------------------------------------------------: |
+   
+   
 ### Currículos 
 
-* **Lattes CNPq:** http://lattes.cnpq.br/5599778124078031
-* **ORCID:** https://orcid.org/0000-0001-9701-1336 
-* **Linkedin:** [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/)
-* **Linktree (agregador de links):** [brennodemarchi](https://linktr.ee/brennodemarchi)
-
----
+   
+| ![[linkedin.png\|40]] |           LinkedIn            | [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/) |
+| :-------------------: | :---------------------------: | :---------------------------------------------------------------: |
+|  ![[lattes.png\|40]]  |          **Lattes**           |              http://lattes.cnpq.br/5599778124078031               |
+|  ![[orcid.png\|40]]   |           **ORCID**           |              [https://orcid.org/0000-0001-9701-1336               |
+   
+   
 ### Publicações
 
-* **AcademiaEdu:** [Brenno B. Demarchi](https://ufsc.academia.edu/BrennoDemarchi)
-* **ResearchGate:**[ Brenno Brandalise Demarchi](https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi)
-
----
+   
+| ![[academiaedu.png\|40]]  | **AcademiaEdu** |                 [Brenno B. Demarchi](https://ufsc.academia.edu/BrennoDemarchi)                 |
+| :-----------------------: | :-------------: | :--------------------------------------------------------------------------------------------: |
+| ![[researchgate.png\|40]] |  ResearchGate   | [ Brenno Brandalise Demarchi](https://www.researchgate.net/profile/Brenno-Brandalise-Demarchi) |
+   
 ### Projetos
-
-* **Behance (Fotografias):** [brennodemarchi](https://www.behance.net/brennodemarchi)
-* **Youtube (Vídeos):** [@brennodemarchi](https://www.youtube.com/@brennodemarchi)
-* **GitHub (Códigos):** [brennodemarchi](https://github.com/brennodemarchi)
-
+   
+   
+| ![[behance.png\|40]] | **Behance** (fotos)  |  [brennodemarchi](https://www.behance.net/brennodemarchi)  |
+| :------------------: | :------------------: | :--------------------------------------------------------: |
+| ![[youtube.png\|40]] | **Youtube** (videos) | [@brennodemarchi](https://www.youtube.com/@brennodemarchi) |
+| ![[github.png\|40]]  | **GitHub** (códigos) |    [brennodemarchi](https://github.com/brennodemarchi)     |
+   
+   
 ---
