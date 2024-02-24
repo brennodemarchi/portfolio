@@ -5,10 +5,10 @@ indentation: "1"
 > [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 ---
-
-PhD Student in Social Anthropology at Santa Catarina Federal University and Independent Cultural Producer.
+   
+Anthropologist and independent Cultural Producer. Currently enrolling a Ph.D. in Social Anthropology in the Federal University of Santa Catarina. I also hold a Master's degree in Social Anthropology from the Federal University of Santa Catarina. Bachelor's degrees in Social Sciences from São Paulo State University (Unesp - Marília, São Paulo, Brazil), both in Social Sciences and in Teaching. Technical degree in Informatics from Aristóteles Ferreira Technical School (ETEC-AF - Santos, São Paulo, Brazil).   
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
-
+    
 ---
 # Languages
 
@@ -31,31 +31,31 @@ Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
 Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
 *Advisor:* Dr. Viviane Vedana
 *Examination Board:* Letícia Cesarino (UFSC) e Cornelia Eckert (UFRGS)
-*Master Thesis Title:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
+*Master Thesis Title:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). For more information [[Master Thesis - Social Anthropology (2023)|click here]].
 
 ##### *2015-2019* | Teaching License degree in Social Sciences
 São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Brazil.
-*Mandatory Teaching Internship:* Brazilian State Center for Youth and Adult Education (CEEJA) - Professor Sebastiana Ulian Pessine, Marília, São Paulo, Brazil (2019)
+*Mandatory Teaching Internship:* Brazilian State Center for Youth and Adult Education (CEEJA) - Professor Sebastiana Ulian Pessine, Marília, São Paulo, Brazil (2019).
 
 ##### *2015-2018* | Bachelor in Social Sciences
 São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Brazil.
 *Advisor:* Dr. Christina de Rezende Rubim
-*Bachelor Monograph Title:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
+*Bachelor Monograph Title:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). For more information [[Undergraduate Thesis - Social Sciences (2018)|click here]].
 
 ##### *2013-2014* | Technical Course in Informatics
 São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, Brazil
-*Título:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
+*Título:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Software for Commercial Management of Food Establishments (2014)|click here]].
 
 ---
 # Professional Experience
 
 **2021** | Coordinator of the Working Group entitled "Musical Processes, Culture and Society" ["Processos Musicais, Cultura e Sociedade"] at the academic event "VI Student Seminar of the Graduate Program in Sociology at the Federal University of Minas Gerais" ["VI Seminário Discente do Programa de Pós-Graduação em Sociologia da Universidade Federal de Minas Gerais"], with registration number [204338](https://sistemas.ufmg.br/siex/VerIdentificacao.do?id=84823&tipo=Evento) in the Extension Information System (SIEX) Federal University of Minas Gerais. 
 
-**2021** | Teaching Internship in the course " Elective Tutorship IV - Anthropology and Sound", under the supervision of Prof. Dr. Viviane Vedana, in the Bachelor's degree course in Anthropology at the Federal University of Santa Catarina (UFSC).
+**2021** | Teaching Internship in the course "Elective Tutorship IV - Anthropology and Sound", under the supervision of Prof. Dr. Viviane Vedana, in the Bachelor's degree course in Anthropology at the Federal University of Santa Catarina (UFSC).
 
 **2019-2021** | Podcast from Mars ["Podcast de Marte"] : a narrative podcast to critically reflect on our society. Production, script, host and editing: Brenno Brandalise Demarchi. Available in Brazilian Portuguese at: https://linktr.ee/podcastdemarte. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
 
-**2019** | Monitoria na disciplina "Introdução à Antropologia", 
+**2019** | Teaching Internship in the course "Introduction to Anthropology", 
 Teaching Internship selected through a recruitment and selection process, in the course "Introduction to Anthropology", given in the 1st year of the Social Sciences undergraduation course, at the Faculty of Philosophy and Sciences of the São Paulo State University - Brazil, supervised by Dr. Antonio Mendes da Costa Braga.
 
 **2010-2011** | Scholarship holder at the Pão de Açúcar Institute Orchestra - Modality: Violist (Viola).
@@ -158,8 +158,8 @@ Workload: 10h
 ---
 ## 2020
 
-#### Extensão universitária em Autogestão, Cooperativas e Economia Solidária
-Universidade Federal de São Paulo (Unifesp)   
+#### University Extension Course on Self-management, Cooperatives, and Solidarity Economy
+Federal University of São Paulo (Unifesp)   
 Workload: 30h   
 
 #### 7th Edition of the Audiovisual Workshop
@@ -203,12 +203,12 @@ Workload: 15h
 ## 2019
 
 #### Photographic Narrative Course
-Rio Grande do Sul Federal University
+Federal University of Rio Grande do Sul
 Workload: 6h
 
-#### Entrevistas Narrativas Biográficas: Condução e Análise
-Sociedade Brasileira de Sociologia; Universidade Federal de Santa Catarina
-Workload: 3h
+#### Biographical Narrative Interviews: Conduct and Analysis
+Brazilian Society of Sociology; Federal University of Santa Catarina
+**Workload:** 3h
 
 ---
 ## 2018
