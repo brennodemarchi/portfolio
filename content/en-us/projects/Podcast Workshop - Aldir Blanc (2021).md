@@ -1,56 +1,66 @@
 ---
 indentation: "2"
 ---
-# Ementa
+# About
 
-Realizamos uma Oficina de Podcast gratuita e 100% online, com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita, da Prefeitura Municipal de Santos e do Governo Federal.
+We held a free and 100% online Podcast Workshop, with the support of the Aldir Blanc Law - Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government.
 
-A oficina teve como objetivo ensinar todas as etapas para produzir podcasts de qualidade com poucos recursos, desde a criação do roteiro até a divulgação. Os participantes produziram um episódio para o Podcast de Marte sobre obras de poetas e artistas santistas e receberam um certificado ao final.
+The workshop aimed to teach all the steps to produce quality podcasts with few resources, from creating the script to distribute and promote your podcast channel. Participants produced an episode for the "Podcast de Marte" about the works of poets and artists from Santos and received a certificate upon completion.
 
-A oficina tinha 20 vagas previstas, mas devido às 56 inscrições recebidas, ampliamos para duas turmas com 28 vagas cada uma, buscando contemplar todas as pessoas. A primeira turma ocorreu entre os dias 8, 10 e 12, das 19h30 às 21h30, e a segunda foi no período entre 15, 17 e 19. As duas foram ministradas no mesmo horário e no mês de Fevereiro de 2021.
+The workshop initially had 20 available slots, but due to receiving 56 registrations, we expanded to two groups with 28 slots each, aiming to accommodate everyone. The first group took place on the 8th, 10th, and 12th, from 7:30 PM to 9:30 PM, and the second group was held on the 15th, 17th, and 19th. Both were conducted in February 2021.
 
 # Equipe
 
-Brenno Brandalise Demarchi – Proponente
-Ademir Demarchi – Assessoria de Projeto
-Graziela Simões Santana – Assessoria de Comunicação
-Jackson Francisco da Conceição Müller – Consultoria Pedagógica
-Wesley Vaz Oliveira – Mediação Pedagógica
-Aparecida Larissa – Design Gráfico
+**Research, Production, Instruction, Sound Editing, and Design:**  
+Brenno Brandalise Demarchi (Project Proponent)   
+   
+**Project Advisory:**     
+Ademir Demarchi   
+   
+**Communication Advisory:**     
+Graziela Simões Santana   
 
-# Ferramentas e Tecnologias
+**Pedagogical Consulting:**    
+Jackson Francisco da Conceição Müller   
+   
+**Pedagogical Mediation:**    
+Wesley Vaz Oliveira   
+   
+**Graphic Design:**    
+Aparecida Larissa   
+   
+# Tools and Technologies
 
-**Metodologias de Autogestão:** Reuniões, votação e consenso, atribuição de tarefas, produção de atas e tabela de banco de horas
+**Self-Management Methodologies:** Meetings, voting and consensus, task assignment, meeting minutes production, and time tracking table.   
+   
+**Project Management:** Trello and WhatsApp.   
+   
+**Text Editing:** Google Docs.   
+   
+**Image Editing:** Adobe Photoshop.   
+   
+**Presentation Design:** Microsoft Office Power Point and Canva.   
+   
+**Audio Editing (during the Workshop):** Audacity, Reaper, and Adobe Audition.   
+**Audio Editing (Post-Production):** Reaper   
 
-**Gestão de Projeto:** Trello e Whatsapp
+### Available in Brazilian Portuguese at the following links:
 
-**Edição de Texto:** Google Docs
-
-**Edição de Imagem:** Adobe Photoshop
-
-**Design de Apresentação:** Microsoft Office Power Point e Canva
-
-**Edição de Áudio (na Oficina):** Audacity, Reaper e Adobe Audition
-
-**Edição de Áudio (na Edição):** Reaper
-
-### Disponível em:
-
-- **no CastBox:** [https://castbox.fm/episode/Especial-02—Oficina-de-Podcast-de-Poesia-(Aldir-Blanc-2020)-id2451350-id358895136?country=br](https://castbox.fm/episode/Especial-02---Oficina-de-Podcast-de-Poesia-(Aldir-Blanc-2020)-id2451350-id358895136?country=br)
-- **no Google Podcasts:** [https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz/episode/NzU4NjUyNDktYzcwZi00NDE5LWE2MjQtMTc4OThkNGJlYWFh?sa=X&ved=0CAUQkfYCahcKEwjI7NXZjYXvAhUAAAAAHQAAAAAQAQ](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz/episode/NzU4NjUyNDktYzcwZi00NDE5LWE2MjQtMTc4OThkNGJlYWFh?sa=X&ved=0CAUQkfYCahcKEwjI7NXZjYXvAhUAAAAAHQAAAAAQAQ)
-- **no Anchor.fm:** [https://anchor.fm/podcastdemarte/episodes/Especial-02—Oficina-de-Podcast-de-Poesia-Aldir-Blanc-2020-er25i7](https://anchor.fm/podcastdemarte/episodes/Especial-02---Oficina-de-Podcast-de-Poesia-Aldir-Blanc-2020-er25i7)
+- **CastBox:** [https://castbox.fm/episode/Especial-02—Oficina-de-Podcast-de-Poesia-(Aldir-Blanc-2020)-id2451350-id358895136?country=br](https://castbox.fm/episode/Especial-02---Oficina-de-Podcast-de-Poesia-(Aldir-Blanc-2020)-id2451350-id358895136?country=br)
+- **Google Podcasts:** [https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz/episode/NzU4NjUyNDktYzcwZi00NDE5LWE2MjQtMTc4OThkNGJlYWFh?sa=X&ved=0CAUQkfYCahcKEwjI7NXZjYXvAhUAAAAAHQAAAAAQAQ](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YmQ1ODdjL3BvZGNhc3QvcnNz/episode/NzU4NjUyNDktYzcwZi00NDE5LWE2MjQtMTc4OThkNGJlYWFh?sa=X&ved=0CAUQkfYCahcKEwjI7NXZjYXvAhUAAAAAHQAAAAAQAQ)
+- **Anchor.fm:** [https://anchor.fm/podcastdemarte/episodes/Especial-02—Oficina-de-Podcast-de-Poesia-Aldir-Blanc-2020-er25i7](https://anchor.fm/podcastdemarte/episodes/Especial-02---Oficina-de-Podcast-de-Poesia-Aldir-Blanc-2020-er25i7)
 - **Feed RSS:** [https://anchor.fm/s/9bd587c/podcast/rss](https://anchor.fm/s/9bd587c/podcast/rss)
-- **Ou pelo linktree:** [https://linktr.ee/podcastdemarte](https://linktr.ee/podcastdemarte)
+- **For more information, check out the Podcast de Marte's Linktree page (available only in Brazilian Portuguese):** [https://linktr.ee/podcastdemarte](https://linktr.ee/podcastdemarte)
 
-# Na Mídia
+# Press Releases
 
 ![[oficina-podcast-aldirblanc-atribuna-1.png]]
 ![[oficina-podcast-aldirblanc-atribuna-2.png]]
-Disponível em: https://www.atribuna.com.br/variedades/programe-se/oficina-santista-de-podcasts-de-poesia-encerra-inscricoes-neste-domingo
+Available in Brazilian Portuguese at: https://www.atribuna.com.br/variedades/programe-se/oficina-santista-de-podcasts-de-poesia-encerra-inscricoes-neste-domingo
 
 ![[oficina-podcast-aldirblanc-jornal-da-orla-1.png]]
 ![[oficina-podcast-aldirblanc-jornal-da-orla-2.png]]
-Disponível em: https://www.jornaldaorla.com.br/noticias/46841-oficina-de-podcast-santista-ensina-a-produzir-programas-com-qualidade-poucos-recursos/
+Available in Brazilian Portuguese at: https://www.jornaldaorla.com.br/noticias/46841-oficina-de-podcast-santista-ensina-a-produzir-programas-com-qualidade-poucos-recursos/
 
 ![[oficina-podcast-aldirblanc-podcast-instagram-1.png | 500]]
 ![[oficina-podcast-aldirblanc-podcast-instagram-2.jpg | 500]]

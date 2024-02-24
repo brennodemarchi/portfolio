@@ -11,12 +11,24 @@ A oficina tinha 20 vagas previstas, mas devido às 56 inscrições recebidas, am
 
 # Equipe
 
-Brenno Brandalise Demarchi – Proponente
-Ademir Demarchi – Assessoria de Projeto
-Graziela Simões Santana – Assessoria de Comunicação
-Jackson Francisco da Conceição Müller – Consultoria Pedagógica
-Wesley Vaz Oliveira – Mediação Pedagógica
-Aparecida Larissa – Design Gráfico
+
+**Pesquisa, Produção, Instrutor, Edição e Design de Som:**   
+Brenno Brandalise Demarchi (Proponente do Projeto)   
+
+**Assessoria de Projeto:**  
+Ademir Demarchi 
+
+**Assessoria de Comunicação:**   
+Graziela Simões Santana   
+   
+**Consultoria Pedagógica:**   
+Jackson Francisco da Conceição Müller   
+   
+**Mediação Pedagógica:**    
+Wesley Vaz Oliveira   
+   
+**Design Gráfico:**    
+Aparecida Larissa   
 
 # Ferramentas e Tecnologias
 

@@ -42,9 +42,14 @@ Foram três encontros com duração de até 2 horas, em que a primeira parte foi
 
 # Equipe
 
-Brenno Brandalise Demarchi – Proponente
-Wesley Vaz Oliveira – Proponente
-Jackson Francisco da Conceição Müller – Coordenação
+**Pesquisa, Produção, Instrutor, Edição e Design de Som:**    
+Brenno Brandalise Demarchi (Proponente)    
+   
+**Pesquisa e Mediação Pedagógica:**   
+Wesley Vaz Oliveira    
+   
+**Coordenação e Mediação Pedagógica:**   
+Jackson Francisco da Conceição Müller   
 
 # Ferramentas e Tecnologias
 

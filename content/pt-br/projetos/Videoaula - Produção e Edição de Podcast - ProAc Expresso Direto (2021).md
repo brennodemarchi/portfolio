@@ -10,7 +10,8 @@ Na videoaula "Como produzir e editar o seu podcast", procurei explicar todas as 
 
 # Equipe
 
-Brenno Brandalise Demarchi – Proponente
+**Proponente, Pesquisa, Produção, Instrutor, Edição e Design de Som:**   
+Brenno Brandalise Demarchi
 
 # Ferramentas e Tecnologias
 

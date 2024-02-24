@@ -10,7 +10,8 @@ In the video class "How to Produce and Edit Your Podcast," I aimed to explain al
 
 # Team
 
-Brenno Brandalise Demarchi – Proponente
+**Proponente, Pesquisa, Produção, Instrutor, Edição e Design de Som:**   
+Brenno Brandalise Demarchi
 
 # Tools and Technologies
 
