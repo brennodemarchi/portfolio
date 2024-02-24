@@ -2,22 +2,22 @@
 indentation: "2"
 ---
 
-![[dissertacao-brennodemarchi.png|700]]Disponível em: https://repositorio.ufsc.br/handle/123456789/247633.
+![[dissertacao-brennodemarchi.png|700]]Available in Brazilian Portuguese at: https://repositorio.ufsc.br/handle/123456789/247633.
 
-# Resumo
+# Summary
 
-Esta pesquisa teve por objetivo o de fazer uma reflexão antropológica sobre as problemáticas em torno da água em três eixos de análise. O primeiro se volta para as teorias e práticas que fundamentam uma série de metodologias de administração e normas técnicas para definir, identificar e encontrar soluções em contextos de crise. Considera-se também que o conceito de crise não se sustenta sem estar em relação com o de sistema e o de risco e que esses três conceitos impactam diretamente nas formas de compreender e propor ações em contextos de falta ou excesso de água (isto é, na ocorrência de secas ou enchentes). 
+This research anthropologically analyzes the challenges related to water from three perspectives:
 
-O segundo trata das noções sobre como a água, enquanto categoria epistemológica, é apresentada em cartilhas de educação ambiental, no site de dois órgãos públicos competentes nessa temática ? a Companhia de Saneamento Básico de São Paulo - SABESP e a Agência Nacional de Águas e Saneamento Básico - ANA - e como as proposições antropológicas nos auxiliam para ampliar nosso horizonte sobre essa discussão, tendo em vista que diversos materiais apresentam uma perspectiva meramente quantitativa para esse bem comum natural, como procurou-se argumentar. 
+1. It examines the theories and practices underpinning methods of administration and technical standards to address water crises, highlighting the interrelationship between the concepts of crisis, system, and risk.
 
-Foi proposto duas categorias escalares de análise de consumo de água para compreender as dinâmicas e os tipos de consumo: por um lado, a escala ?individual-doméstica?, que representa o consumo de água por unidades residenciais; a ?global-industrial?, por outro lado, retrata tanto o consumo de água individual em maior abrangência quanto o quanto de água é preciso para a produção de bens de consumo, alimentos etc. Comparando os dados, observou-se que essas duas escalas nos ajudam a perceber a estrutura econômica da água e que, apesar de ser um aspecto importante, o consumo de água não é suficiente para resolver crises hídricas, como muitos materiais didáticos apontam. 
+2. It investigates how water is presented in environmental education brochures from public and private organizations, arguing that many materials emphasize a quantitative approach and offer individualized solutions that limit our understanding of the problem.
 
-O terceiro articula as discussões anteriores, procurando apontar os principais problemas relativos à água no Brasil, considerando-os como questões infraestruturais. Esses problemas vão desde a importância de preservar as matas ciliares, passando pelo processo de contaminação por agrotóxicos e resíduos sólidos, até chegar nas perdas de água não apenas em unidades residenciais, como também em todo o sistema de distribuição. 
+4. It discusses the infrastructural problems related to water in Brazil, ranging from the importance of preserving riparian forests to ongoing contamination from pesticides and waste, and scrutinizes water losses throughout the distribution system.
 
-Para a coleta e produção dos dados fez-se um levantamento bibliográficos acerca dos conceitos de crise, sistema, crise, bem como das bibliografias que tratam a respeito das teorias de valor, ética ambiental, antropologia das águas e das infraestruturas. 
+# Methodology
 
-Dentre os materiais consultados destacam-se as cartilhas de conscientização do consumo de água, os manuais de metodologias de gestão de projetos e de gestão de crise, as normas técnicas brasileiras sobre gestão de risco e demais obras e artigos publicados em periódicos acadêmicos.
+To collect and produce the data, a bibliographic survey was conducted on the concepts of crisis, system, and risk, as well as references related to theories of value, environmental ethics, anthropology of water, and infrastructure. The materials consulted included awareness-raising brochures on water consumption, manuals of project management methodologies and crisis management, Brazilian technical standards on risk management, as well as various academic works and articles published in journals.
 
-# Palavras-chave
+# Keywords
 
-Água; Crise Hídrica; Gestão do Risco; Teoria dos Sistemas; Antropoceno; Antropologia das Infraestruturas.
+Water; Water Crisis; Risk Management; Systems Theory; Anthropocene; Anthropology of Infrastructure.

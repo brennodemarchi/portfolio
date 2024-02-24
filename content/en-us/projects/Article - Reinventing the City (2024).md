@@ -8,7 +8,7 @@ indentation: "2"
 
 # Abstract
 
-Several collectives and social mobilization fronts are assembled in order to glimpse new possibilities of existence, to experience the city and to contest social injustices, as is the case of the Hip-Hop movement, an expressive social and cultural movement originated in urban centers. The general objective of this article is to reflect on how Hip-Hop makes it possible to politically contest and resignify the urban space, which is sometimes defined in the lack of public policies. Exploratory and bibliographic research were adopted as a methodological approach. As a result, it was seen that hip -hop creates the possibility of transforming the segregated and excluded urban space into a place of protest, entertainment and social demands, thus acting as an urban activism that guides and raises community consciousness.
+This article examines how the Hip-Hop movement enables political contestation and redefines urban space, especially in contexts lacking public policies. The research, conducted through exploratory and bibliographic methods, reveals that Hip-Hop transforms segregated and exclusionary urban spaces into sites of protest, entertainment, and social advocacy, acting as urban activism that guides and raises awareness within the community.
 
 # Keywords
 

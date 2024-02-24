@@ -5,10 +5,6 @@ indentation: "2"
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 Available at: https://www.youtube.com/embed/eyckuFLYndw
 
-# Context
-
-This short film is part of the Competitive Exhibition “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” ["My Vision - Short films made by São Paulo's Peripheral Youth"], an initiative of the Organization of Ibero-American States (OEI), the Roberto Marinho Foundation (FRM) and São Paulo State Film and Audiovisual Company S.A (Spcine)
-
 # Synopsis 
 
 The documentary reflects on the trajectory of a northeastern worker in the midst of the Brazilian military dictatorship in the city of Cubatão, a municipality in the state of São Paulo-Brazil, through unseen archive images and videos. 
@@ -37,7 +33,7 @@ The documentary reflects on the trajectory of a northeastern worker in the midst
 
 ### Competitive Exhibition “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” ["My Vision - Short films made by São Paulo's Peripheral Youth"]
 
-It was shown on November 9, 2023 during the project's Competitive Exhibition “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” ["My Vision - Short films made by São Paulo's Peripheral Youth"], an initiative of the Organization of Ibero-American States (OEI), the Roberto Marinho Foundation (FRM) and São Paulo State Film and Audiovisual Company S.A (Spcine)
+Exhibited on November 9th, 2023, "Chico Came Back Alone" was a finalist in the Competitive Showcase "My View - Short Films made by the Peripheral Youth of São Paulo," an initiative by the Organization of Ibero-American States for Education, Science, and Culture in Brazil (OEI), the Roberto Marinho Foundation (FRM), and the São Paulo Cinema and Audiovisual Company S.A. (Spcine).   
 
 # Press Releases
 

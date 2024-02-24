@@ -5,10 +5,6 @@ indentation: "2"
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 Disponível em: https://www.youtube.com/watch?v=eyckuFLYndw
 
-# Contexto
-
-Este curta documental fez parte da Mostra Competitiva “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo”, uma iniciativa da Organização de Estados Ibero-americanos para a Educação, a Ciência e a Cultura no Brasil (OEI), da Fundação Roberto Marinho (FRM) e da Empresa de Cinema e Audiovisual de São Paulo S.A. (Spcine).
-
 # Sinopse 
 
 O documentário reflete sobre a trajetória de um operário nordestino em meio a ditadura militar na cidade de Cubatão (SP), através de imagens e vídeos de arquivo inéditos.
@@ -37,7 +33,7 @@ O documentário reflete sobre a trajetória de um operário nordestino em meio a
 
 ### Mostra Competitiva "Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo”
 
-Foi exibido no dia 9 de Novembro de 2023, durante a Mostra Competitiva “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo”, uma iniciativa da Organização de Estados Ibero-americanos para a Educação, a Ciência e a Cultura no Brasil (OEI), da Fundação Roberto Marinho (FRM) e da Empresa de Cinema e Audiovisual de São Paulo S.A. (Spcine).
+Exibido no dia 9 de Novembro de 2023, "Chico Voltou Só" foi finalista da Mostra Competitiva “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo”, uma iniciativa da Organização de Estados Ibero-americanos para a Educação, a Ciência e a Cultura no Brasil (OEI), da Fundação Roberto Marinho (FRM) e da Empresa de Cinema e Audiovisual de São Paulo S.A. (Spcine).
 
 # Na Mídia
 

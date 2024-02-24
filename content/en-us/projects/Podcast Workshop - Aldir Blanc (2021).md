@@ -5,7 +5,7 @@ indentation: "2"
 
 Realizamos uma Oficina de Podcast gratuita e 100% online, com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita, da Prefeitura Municipal de Santos e do Governo Federal.
 
-O objetivo da oficina foi perpassar todas as etapas para produzir podcasts com qualidade e poucos recursos, do roteiro à divulgação. Nesse percurso, as pessoas inscritas participaram da produção de um episódio para o Podcast de Marte sobre obras de poetas e artistas santistas e, ao final, receberam um certificado.
+A oficina teve como objetivo ensinar todas as etapas para produzir podcasts de qualidade com poucos recursos, desde a criação do roteiro até a divulgação. Os participantes produziram um episódio para o Podcast de Marte sobre obras de poetas e artistas santistas e receberam um certificado ao final.
 
 A oficina tinha 20 vagas previstas, mas devido às 56 inscrições recebidas, ampliamos para duas turmas com 28 vagas cada uma, buscando contemplar todas as pessoas. A primeira turma ocorreu entre os dias 8, 10 e 12, das 19h30 às 21h30, e a segunda foi no período entre 15, 17 e 19. As duas foram ministradas no mesmo horário e no mês de Fevereiro de 2021.
 

@@ -3,31 +3,31 @@ indentation: "2"
 ---
 
 ![[etec-gestcom-presentation.webp]]
-# Sobre 
+# About 
 
-GESTCOM - Gestão Comercial foi um software desenvolvido entre Fevereiro a Junho de 2014 como parte dos critérios para obtenção do título de Técnico de Nível Médio em Informática (com ênfase em programação) na Escola Técnica Estadual Aristótteles Ferreira – Santos, SP, Brasil.
+GESTCOM - Commercial Management was a software developed between February and June 2014 as part of the criteria for obtaining the title of Middle Level Technician in Computer Science (with emphasis on programming) at the State Technical School Aristótteles Ferreira - Santos, SP, Brazil.
 
-Neste projeto fiquei responsável pela gestão do projeto, pela elaboração do Design de Interface e Experiência do Usuário (Design UI/UX) e por revisar o texto da monografia.
+In this project, I was responsible for project management, interface design, and user experience (UI/UX Design), as well as reviewing the thesis text.
 
-# Funcionalidades
+# Features
 
-Auxiliar na gestão de empórios e outros estabelecimentos comerciais na organização de pedidos realizados pelos clientes, calcular tempo estimado de entrega e alternativas de rotas, mapeamento geral das entregas realizadas, controle de estoque, gerar gráficos para identificar os clientes que mais consomem, os produtos mais vendidos, para que assim o gerente do estabelecimento não perca mais clientes devido a pedidos não anotados ou que tenha sido entregue com falta de produtos.
+Assist in the management of emporiums and other commercial establishments in organizing orders placed by customers, calculating estimated delivery time and route alternatives, general mapping of deliveries made, inventory control, generating charts to identify the customers who consume the most, the best-selling products, so that the establishment manager does not lose more customers due to unrecorded orders or those delivered with missing products.
 
-# Equipe
+# Team
 
-Brenno Brandalise Demarchi
-Jefferson Boris Guardia
-Mateus Vilione Braz Lima
-Sidney Ferreira Coutinho
+- Brenno Brandalise Demarchi
+- Jefferson Boris Guardia
+- Mateus Vilione Braz Lima 
+- Sidney Ferreira Coutinho
 
-# Ferramentas e Tecnologias
+# Tools and Technologies
 
-**Programação:** C# (utilizando o Microsoft Visual Studio)
+- **Programming:** C# (using Microsoft Visual Studio)
 
-**Banco de Dados:** SQL (utilizando MySQL)
+- **Database:** SQL (using MySQL)
 
-**Suíte Office:** Microsoft Office
+- **Office Suite:** Microsoft Office
 
-**Edição de Imagem:** Adobe Photoshop e Illustrator
+- **Image Editing:** Adobe Photoshop and Illustrator
 
-**Design de Slides:** Prezi
+- **Slide Design:** Prezi

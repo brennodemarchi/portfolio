@@ -2,35 +2,24 @@
 indentation: "2"
 ---
 
-![[monografia-brennobdemarchi.webp]]Disponível em: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_-_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo
+![[monografia-brennobdemarchi.webp]]
+Available in Brazilian Portuguese at: https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_-_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo
 
-Fotografias: https://www.behance.net/gallery/91704471/Nem-tao-longe-nem-tao-perto
+Photographs: https://www.behance.net/gallery/91704471/Nem-tao-longe-nem-tao-perto
 
-# Contexto
+# Abstract
 
-Esta pesquisa foi realizada como critério parcial para obtenção do título de Bacharel em Ciências Sociais, da Universidade Estadual Paulista Júlio de Mesquita Filho”, _campus_ Marília. Com ela, buscou-se analisar a mobilidade urbana na cidade de Marília, região Centro-Oeste de São Paulo, não somente pelos seus aspectos urbanísticos, mas também sociais, políticos, culturais e geográficos, tendo como eixo central o transporte público. Isto porque, apesar da mobilidade urbana ser um pressuposto fundante de qualquer cidade que se preocupa com os seus moradores, supôs-se que, entretanto, o recorte territorial caracterizava-se pela falta de infraestruturas urbanas mesmo com o aparato previsto na legislação brasileira.
+This research, conducted as part of the requirements for obtaining a Bachelor's degree in Social Sciences from the São Paulo State University Júlio de Mesquita Filho, Marília campus, investigated urban mobility in Marília, in the Central-West region of São Paulo. Considering urban, social, political, cultural, and geographical aspects, with an emphasis on public transportation, the research highlighted the lack of urban infrastructure in the municipality, despite existing Brazilian laws. Using a qualitative and interdisciplinary approach, the research mapped transportation methods in the city, analyzed users' opinions on public transportation, and identified the challenges they face. Data collection included ethnophotography and questionnaires applied to users of the municipal bus terminal, based on the Benjaminian conception of understanding history against the grain. The analysis revealed that the inefficiency of public transportation is influenced by both the lack of enforcement of laws by municipal administrations and by local topographical conditions and urban design. It was concluded that creative solutions are needed to address the challenges of urban mobility and ensure the right to safe and efficient transportation.
 
-Os objetivos específicos foram mapear as alternativas de meios de transporte no município, analisar as opiniões dos usuários sobre o transporte público e pontuar os desafios enfrentados por quem precisa se deslocar sem um veículo particular (sendo motorizado ou não).
+# Tools and Technologies
 
-A pesquisa orientou-se pela metodologia qualitativa, com enfoque pluridisciplinar, fundamentando-se nos conceitos das teorias da localidade, produção e fragmentação dos espaços, práticas espaciais e errâncias urbanas.
+- **Research Methods and Techniques:** Ethnophotography, Participant Observation, Drifts, and Survey
 
-A produção de dados foi realizada por meio da etnofotografia com a aplicação de questionários aos usuários do terminal de ônibus municipal, em dias e horários alternados, com amostra populacional aleatória, a partir da concepção benjaminiana de compreender a história a contrapelo. A ordenação, classificação e análise dos dados permitiu apreender que a ineficiência do serviço de transporte público não acontece exclusivamente pela não aplicabilidade das leis pelas diferentes gestões municipais, mas também pelas condições topográficas peculiares e pelas formas que o desenho urbano foi sendo constituído como elemento da cultura local.
+- **Text Editing:** Microsoft Word
 
-Concluiu-se que é necessário soluções criativas para enfrentar os desafios da operacionalização de uma política de mobilidade urbana que seja capaz de atender os pressupostos legais, os aspectos geográficos e o direito de ir e vir com segurança e agilidade de seus habitantes.
+- **Spreadsheet and Graphics:** Microsoft Excel and Action Portal
 
-# Resumo
-
-Esta pesquisa analisou a mobilidade urbana na cidade de Marília, região Centro-Oeste de SãoPaulo, não somente pelos seus aspectos urbanísticos, mas também sociais, políticos, culturais egeográficos, tendo como eixo central o transporte público. Isto porque, apesar da mobilidadeurbana ser um pressuposto fundante de qualquer cidade que se preocupa com os seusmoradores, supôs-se que, entretanto, o recorte territorial caracterizava-se pela falta deinfraestruturas urbanas mesmo com o aparato previsto na legislação brasileira, seja pelo Códigode Trânsito Brasileiro (1997), pelo Estatuto da Cidade (2001) ou pela Lei Nacional deMobilidade Urbana (2012). A pesquisa orientou-se pela metodologia qualitativa, com enfoque pluridisciplinar, fundamentando-se nos conceitos das teorias da localidade, produção efragmentação dos espaços, práticas espaciais e errâncias urbanas. Os objetivos específicosforam mapear as alternativas de meios de transporte no município, analisar as opiniões dosusuários sobre o transporte público e pontuar os desafios enfrentados por quem percorre a semqualquer veículo particular, mesmo que não motorizado. A produção de dados foi realizada pormeio da etnofotografia com a aplicação de questionários aos usuários do terminal de ônibusmunicipal, em dias e horários alternados, com amostra populacional aleatória, a partir daconcepção benjaminiana de compreender a história a contrapelo. A ordenação, classificação eanálise dos dados permitiu apreender que a ineficiência do serviço de transporte público nãoacontece exclusivamente pela não aplicabilidade das leis pelas diferentes gestões municipais,mas também pelas condições topográficas peculiares e pelas formas que o desenho urbano foisendo constituído como elemento da cultura local. Concluiu-se que é necessário soluçõescriativas para enfrentar os desafios da operacionalização de uma política de mobilidade urbanaque seja capaz de atender os pressupostos legais, os aspectos geográficos e o direito de ir e vircom segurança e agilidade de seus habitantes.
-
-# Ferramentas e Tecnologias
-
-**Métodos e Técnicas de Pesquisa:** Etnofotografia, Observação Participante, Derivas e Survey
-
-**Edição de Texto:** Microsoft Word
-
-**Planilha e Gráficos:** Microsoft Excel e Portal Action
-
-**Edição de Imagem:** Rawtherapee
+- **Image Editing:** RawTherapee
 
 # Palavras-chave
 
