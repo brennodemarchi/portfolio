@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2dc0f7fe8bb68c92","type":"file","file":"content/assets/icons/brazil-flag.png","x":-480,"y":-320,"width":290,"height":290},
+		{"id":"674d3c946d354b5f","type":"text","text":"[[index-pt-br|Português]]","x":-480,"y":-30,"width":290,"height":50},
+		{"id":"88d7f3c9008ec1a2","type":"text","text":"[[index-en-us|English]]","x":-160,"y":-30,"width":290,"height":50},
+		{"id":"cd9d42f63391f2cf","type":"text","text":"> [!text] Escolha o idioma | Choose a language","x":-480,"y":-380,"width":610,"height":60},
+		{"id":"7dbd425a84bf8128","type":"file","file":"content/assets/icons/en-flag.png","x":-160,"y":-320,"width":290,"height":290}
+	],
+	"edges":[]
+}
