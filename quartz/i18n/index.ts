@@ -1,5 +1,6 @@
 import { Translation, CalloutTranslation } from "./locales/definition"
 import en from "./locales/en-US"
+import pt from "./locales/pt-BR"
 import fr from "./locales/fr-FR"
 import it from "./locales/it-IT"
 import ja from "./locales/ja-JP"
@@ -15,6 +16,7 @@ import zh from "./locales/zh-CN"
 
 export const TRANSLATIONS = {
   "en-US": en,
+  "pt-BR": pt,
   "fr-FR": fr,
   "it-IT": it,
   "ja-JP": ja,
