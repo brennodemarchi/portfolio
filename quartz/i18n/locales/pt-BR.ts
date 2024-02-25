@@ -22,8 +22,8 @@ export default {
       quote: "Citação",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "Nenhum backlinks encontrado",
+      title: "Links de Retorno",
+      noBacklinksFound: "Nenhum link de retorno encontrado",
     },
     themeToggle: {
       lightMode: "Modo claro",
@@ -36,25 +36,25 @@ export default {
       createdWith: "Criado com",
     },
     graph: {
-      title: "Graph View",
+      title: "Visualização de Gráfico",
     },
     recentNotes: {
       title: "Notas Recentes",
       seeRemainingMore: ({ remaining }) => `Veja ${remaining} mais →`,
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `Transclude de ${targetSlug}`,
+      transcludeOf: ({ targetSlug }) => `Transcluído de ${targetSlug}`,
       linkToOriginal: "Link para o original",
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Procure por algo",
+      searchBarPlaceholder: "Digite para procurar o que deseja",
     },
     tableOfContents: {
       title: "Tabela de Conteúdos",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min de leitura`,
+      readingTime: ({ minutes }) => `${minutes} min para ler`,
     },
   },
   pages: {
@@ -69,15 +69,15 @@ export default {
     folderContent: {
       folder: "Pasta",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        count === 1 ? "Há 1 item nesta pasta." : `Há ${count} items nesta pasta.`,
     },
     tagContent: {
       tag: "Tag",
-      tagIndex: "Tag Index",
+      tagIndex: "Índice de Tags",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
-      showingFirst: ({ count }) => `Showing first ${count} tags.`,
-      totalTags: ({ count }) => `Found ${count} total tags.`,
+        count === 1 ? "1 item com esta tag." : `${count} items com esta tag.`,
+      showingFirst: ({ count }) => `Mostrando as primeiras ${count} tags.`,
+      totalTags: ({ count }) => `Foram encontradas ${count} tags no total.`,
     },
   },
 } as const satisfies Translation
