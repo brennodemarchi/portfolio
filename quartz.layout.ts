@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/brennodemarchi",
       "CV Lattes" : "http://lattes.cnpq.br/5599778124078031",
-      "Linktree": "linktr.ee/brennodemarchi",
+      "Linktree": "https://linktr.ee/brennodemarchi",
     },
   }),
 }
