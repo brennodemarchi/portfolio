@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "www.brennodemarchi.art.br",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
