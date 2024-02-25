@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://www.brennodemarchi.art.br">Brenno Brandalise Demarchi</a> © 2023-{year}
+          <a href="https://www.brennodemarchi.art.br">Brenno B. Demarchi</a> © 2023-{year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
