@@ -8,8 +8,8 @@ I'm glad you're here. Thanks for taking an interest in my adventures!
 
 The best way to get in touch with me is by email, but you can follow my work on social media, even though I do not post much there.
 
-| ![[email.png\|40]] | **Email** | [[mailto:brennodemarchi@gmail.com\|brennodemarchi@gmail.com]] |
-| :----------------: | :-------: | :-----------------------------------------------------------: |
+| ![[email.png\|40]] | **Email** | brennodemarchi@gmail.com |
+| :----------------: | :-------: | :----------------------: |
 
 ---
 ## For general use
@@ -37,10 +37,10 @@ The best way to get in touch with me is by email, but you can follow my work on 
    
 ### CVs 
 
-| ![[linkedin.png\|40]] |          LinkedIn          | [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/) |
-| :-------------------: | :------------------------: | :---------------------------------------------------------------: |
-|  ![[lattes.png\|40]]  |         **Lattes**         |              http://lattes.cnpq.br/5599778124078031               |
-|  ![[orcid.png\|40]]   |         **ORCID**          |              [https://orcid.org/0000-0001-9701-1336               |
+| ![[linkedin.png\|40]] |  LinkedIn  | [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/) |
+| :-------------------: | :--------: | :---------------------------------------------------------------: |
+|  ![[lattes.png\|40]]  | **Lattes** |              http://lattes.cnpq.br/5599778124078031               |
+|  ![[orcid.png\|40]]   | **ORCID**  |               https://orcid.org/0000-0001-9701-1336               |
    
    
 ### Publications

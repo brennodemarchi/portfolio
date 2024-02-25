@@ -9,8 +9,8 @@ Estou contente por você estar aqui. Obrigado por ter se interessado nas minhas 
 
 A melhor forma para entrar em contato comigo é pelo e-mail, mas você pode acompanhar meu trabalho pelas redes sociais, ainda que eu não publique muito por lá.
 
-| ![[email.png\|40]] | **Email** | [[mailto:brennodemarchi@gmail.com\|brennodemarchi@gmail.com]] |
-| :----------------: | :-------: | :-----------------------------------------------------------: |
+| ![[email.png\|40]] | **Email** | brennodemarchi@gmail.com |
+| :----------------: | :-------: | :----------------------: |
 
 ---
 ## Para uso geral
@@ -40,10 +40,10 @@ Para as atividades mais recentes, costumo inserir acessos rápidos na minha pág
 ### Currículos 
 
    
-| ![[linkedin.png\|40]] |           LinkedIn            | [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/) |
-| :-------------------: | :---------------------------: | :---------------------------------------------------------------: |
-|  ![[lattes.png\|40]]  |          **Lattes**           |              http://lattes.cnpq.br/5599778124078031               |
-|  ![[orcid.png\|40]]   |           **ORCID**           |              [https://orcid.org/0000-0001-9701-1336               |
+| ![[linkedin.png\|40]] |  LinkedIn  | [Brenno B. Demarchi](https://www.linkedin.com/in/brennodemarchi/) |
+| :-------------------: | :--------: | :---------------------------------------------------------------: |
+|  ![[lattes.png\|40]]  | **Lattes** |              http://lattes.cnpq.br/5599778124078031               |
+|  ![[orcid.png\|40]]   | **ORCID**  |               https://orcid.org/0000-0001-9701-1336               |
    
    
 ### Publicações
