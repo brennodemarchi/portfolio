@@ -7,7 +7,7 @@ Available in Brazilian Portuguese at the following link: https://www.youtube.com
    
 # About
 
-In the video class "How to Produce and Edit Your Podcast," I aimed to explain all the stages - from pre to post-production - for those who wish to produce their podcast with quality and without needing many resources. It serves as a counterpart for the prize given by the Secretariat of Culture and Creative Economy of the State Government of São Paulo through "ProAc Expresso Direto n.º 39/2021", to professionals in the creative cultural sector.
+In the video class "How to Produce and Edit Your Podcast", I aimed to explain all the stages - from pre to post-production - for those who wish to produce their podcast with quality and without needing many resources. It serves as a counterpart for the prize given by the Secretariat of Culture and Creative Economy of the State Government of São Paulo through "ProAc Expresso Direto n.º 39/2021", to professionals in the creative cultural sector.
 
 # Team
 

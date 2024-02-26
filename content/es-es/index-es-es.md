@@ -4,7 +4,7 @@ indentation: "0"
 ---
 
 > [!Example] Menú de Navegación
-> [[index-es-es|Inicio]] [[content/es-es/sobre-mi/cv|CV]]  [[publicaciones|Publicaciones]] [[audiovisual|Producciones Audiovisuales]] [[oficinas e cursos|Talleres y Cursos]]  
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[audiovisual|Producciones Audiovisuales]] [[oficinas e cursos|Talleres y Cursos]]  
 > [[pesquisas|Investigaciones y Notas]] [[contato|Contato]]
 
 # ¡Hola, mi nombre es Brenno Brandalise Demarchi, qué bueno verte por aquí!
@@ -24,7 +24,7 @@ Por eso, tomé como desafío diseñar un sitio web que pueda ser explorado segú
 > [!faq] Secciones de este sítio
 > 
 
-* [[currículo|CV:]] recoge mi información educativa y profesional
+* [[cv em português|CV:]] recoge mi información educativa y profesional
 * [[publicações|Publicaciones:]] todas las publicaciones en las que he participado como autor o coautor
 * [[audiovisual|Producciones Audiovisuales:]] todas las producciones audiovisuales en las que he colaborado
 * [[oficinas e cursos|Talleres y Cursos:]]  todos los talleres y cursos que he ofrecido

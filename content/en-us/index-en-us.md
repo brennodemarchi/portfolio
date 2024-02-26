@@ -4,7 +4,7 @@ indentation: "0"
 ---
 
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] 
 > [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 # Greeting, I'm Brenno Brandalise Demarchi, it's nice to see you here!
@@ -23,7 +23,7 @@ That's why I took on the challenge of designing a site that can be browsed accor
 
 > [!faq] Website Sections
 
-* [[cv|CV:]] gathers my educational and professional information
+* [[cv in english|CV:]] gathers my educational and professional information
 * [[publications|Publications:]] all publications in which I have been an author or co-author
 * [[audiovisual productions|Audiovisual Productions:]] all the audiovisual productions I have collaborated on
 * [[workshops and courses|Workshops and Courses:]] workshops and courses I have given

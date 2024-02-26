@@ -3,24 +3,24 @@ indentation: "1"
 ---
 
 > [!Example] Menu
-> [[index-pt-br|Início]] [[currículo|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
+> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
 > [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
 
 ---
 
-Antropólogo y productor cultural independiente. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina. También tengo un Máster en Antropología Social por la Universidad Federal de Santa Catarina.   
+Antropólogo e Produtor Cultural independente. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Graduano no Bacharelado e Licenciatura em Ciências Sociais pela Universidade Estadual Paulista (Unesp). Técnico em Informática pela Escola Aristóteles Ferreira (ETEC-AF).   
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
-# Idiomas
+# Lenguas que domino
 
-| **Idioma** | **Nível** | CEFR |
-| ---- | ---- | ---- |
-| Português | Nativo | - |
-| Inglês | Fluente | C2 |
-| Espanhol | Avançado | B2 |
-| Francês | Intermediário | B1-B2 |
-| Russo | Iniciante | A0-A1 |
+| **Idioma** | **Nível**     | CEFR  |
+| ---------- | ------------- | ----- |
+| Português  | Nativo        | -     |
+| Inglês     | Fluente       | C2    |
+| Espanhol   | Avançado      | B2    |
+| Francês    | Intermediário | B1-B2 |
+| Russo      | Iniciante     | A0-A1 |
 
 ---
 # Educação
@@ -42,6 +42,7 @@ Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília-SP.
 ##### *2015-2018* | Bacharelado em Ciências Sociais
 Universidade Estadual Paulista "Júlio de Mesquita Filho", Marília-SP
 *Orientação:* Prof.ª Dr.ª Christina de Rezende Rubim
+*Banca Examinadora:* Prof. Dr. Antonio Mendes da Costa Braga e Cornelia Eckert (UFRGS)
 *Título:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). Mais informações [[Monografia - Ciências Sociais (2018)|neste link]]
 
 ##### *2013-2014* | Técnico em Informática
@@ -63,7 +64,7 @@ Monitoria selecionada através de processo seletivo, na disciplina de Introduç�
 **2010-2011** | Bolsista na Orquestra Instituto Pão de Açúcar - Modalidade: Violista (Viola de Arco)
 
 ---
-# Prêmios e Realizações
+# Prêmios e Reconhecimentos
 
 ## 2021
 

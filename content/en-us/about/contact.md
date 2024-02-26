@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] [[research|Research and Note-Taking]] [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 I'm glad you're here. Thanks for taking an interest in my adventures! 
 

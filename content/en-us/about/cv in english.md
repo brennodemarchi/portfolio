@@ -2,7 +2,7 @@
 indentation: "1"
 ---
 > [!Example] Menu
-> [[index-en-us|Home]]   [[cv|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] [[research|Research and Note-Taking]] [[contact|Contact Me]]
+> [[index-en-us|Home]]   [[cv in english|CV]]    [[publications|Publications]]   [[audiovisual productions|Audiovisual Productions]]    [[workshops and courses|Workshops and Courses]] [[research|Research and Note-Taking]] [[contact|Contact Me]]
 
 ---
    
@@ -30,7 +30,7 @@ Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
 ##### *2020-2023* | Master in Social Anthropology 
 Santa Catarina Federal University (UFSC), Florianópolis-SC, Brazil
 *Advisor:* Dr. Viviane Vedana
-*Examination Board:* Letícia Cesarino (UFSC) e Cornelia Eckert (UFRGS)
+*Examination Board:* Dr. Letícia Cesarino (UFSC) and Dr. Cornelia Eckert (Federal University of Rio Grande do Sul)
 *Master Thesis Title:* ["Reflexões antropológicas sobre a pluralidade da água e suas infraestruturas"](https://repositorio.ufsc.br/handle/123456789/247633). For more information [[Master Thesis - Social Anthropology (2023)|click here]].
 
 ##### *2015-2019* | Teaching License degree in Social Sciences
@@ -38,8 +38,9 @@ São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Br
 *Mandatory Teaching Internship:* Brazilian State Center for Youth and Adult Education (CEEJA) - Professor Sebastiana Ulian Pessine, Marília, São Paulo, Brazil (2019).
 
 ##### *2015-2018* | Bachelor in Social Sciences
-São Paulo State University "Júlio de Mesquita Filho", Marília, São Paulo, Brazil.
+São Paulo State University "Júlio de Mesquita Filho" (Unesp), Marília, São Paulo, Brazil.
 *Advisor:* Dr. Christina de Rezende Rubim
+*Examination Board:* Dr. Antonio Mendes da Costa Braga (Unesp) and Dr. Cornelia Eckert (Federal University of Rio Grande do Sul)
 *Bachelor Monograph Title:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). For more information [[Undergraduate Thesis - Social Sciences (2018)|click here]].
 
 ##### *2013-2014* | Technical Course in Informatics
@@ -59,6 +60,23 @@ São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, B
 Teaching Internship selected through a recruitment and selection process, in the course "Introduction to Anthropology", given in the 1st year of the Social Sciences undergraduation course, at the Faculty of Philosophy and Sciences of the São Paulo State University - Brazil, supervised by Dr. Antonio Mendes da Costa Braga.
 
 **2010-2011** | Scholarship holder at the Pão de Açúcar Institute Orchestra - Modality: Violist (Viola).
+
+---
+
+# Awards and Recognitions
+
+## 2021
+
+### ProAc Direct Express ["ProAc Expresso Direto"] - 2021 Edition
+
+In the video class "How to Produce and Edit Your Podcast", I aimed to explain all the stages - from pre to post-production - for those who wish to produce their podcast with quality and without needing many resources. It serves as a counterpart for the prize given by the Secretariat of Culture and Creative Economy of the State Government of São Paulo through "ProAc Expresso Direto n.º 39/2021", to professionals in the creative cultural sector. For more info [[Video Class - Podcast Production and Edition - ProAc Expresso Direto (2021)|click here]] or check the [[workshops and courses]] section.
+
+# 2020
+
+### Aldir Blanc Law – Alcides Mesquita Award - 2020 Edition
+
+The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021. For more info [[Podcast Workshop - IV EAVAAM (2020)|click here]] or check the [[workshops and courses]] section.
+
 
 ---
 # Study and Research Groups

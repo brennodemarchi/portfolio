@@ -3,7 +3,7 @@ indentation: "2"
 ---
 # About
 
-The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021.
+The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award - 2020 Edition, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021.
 
 # Equipe
 
