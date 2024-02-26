@@ -2,12 +2,8 @@
 indentation: "2"
 ---
 # Ementa
-
-Realizamos uma Oficina de Podcast gratuita e 100% online, com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita, da Prefeitura Municipal de Santos e do Governo Federal.
-
-A oficina teve como objetivo ensinar todas as etapas para produzir podcasts de qualidade com poucos recursos, desde a criação do roteiro até a divulgação. Os participantes produziram um episódio para o Podcast de Marte sobre obras de poetas e artistas santistas e receberam um certificado ao final.
-
-A oficina tinha 20 vagas previstas, mas devido às 56 inscrições recebidas, ampliamos para duas turmas com 28 vagas cada uma, buscando contemplar todas as pessoas. A primeira turma ocorreu entre os dias 8, 10 e 12, das 19h30 às 21h30, e a segunda foi no período entre 15, 17 e 19. As duas foram ministradas no mesmo horário e no mês de Fevereiro de 2021.
+  
+A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi uma iniciativa gratuita e totalmente online, promovida com o apoio da Lei Aldir Blanc – Prêmio Alcides Mesquita, da Prefeitura Municipal de Santos e do Governo Federal. Seu objetivo era ensinar os participantes a produzir podcasts de alta qualidade com recursos limitados, abrangendo desde a criação do roteiro até a promoção. Os participantes tiveram a oportunidade de criar um episódio para o Podcast de Marte, focado em obras de poetas e artistas de Santos, e receberam um certificado ao final. A oficina tinha 20 vagas previstas, mas devido ao grande número de inscrições, foram oferecidas duas turmas, cada uma com 28 vagas, realizadas em fevereiro de 2021.
 
 # Equipe
 

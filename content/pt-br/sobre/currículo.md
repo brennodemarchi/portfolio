@@ -75,7 +75,7 @@ A videoaula "Como produzir e editar o seu podcast" foi produzida e distribuída 
 
 ### Lei Aldir Blanc - Prêmio Alcides Mesquisa 2020
 
-A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita 2020, da Prefeitura Municipal de Santos e do Governo Federal. Mais informações [[Oficina de Podcast - Aldir Blanc (2021)|neste link]] e também na seção "[[oficinas e cursos]]".
+A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com o incentivo da Lei Aldir Blanc – Prêmio Alcides Mesquita 2020, da Prefeitura Municipal de Santos e do Governo Federal. Mais informações [[Oficina de Produção e Divulgação de Podcasts de Poesia - Aldir Blanc (2021)|neste link]] e também na seção "[[oficinas e cursos]]".
 
 ---
 # Grupos de Estudos e Pesquisas

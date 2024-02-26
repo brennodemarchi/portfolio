@@ -8,7 +8,11 @@ Fotografias: https://www.behance.net/gallery/91704471/Nem-tao-longe-nem-tao-pert
 
 # Resumo
 
-Esta pesquisa, conduzida como parte dos requisitos para a obtenção do título de Bacharel em Ciências Sociais pela Universidade Estadual Paulista Júlio de Mesquita Filho, campus Marília, investigou a mobilidade urbana em Marília, na região Centro-Oeste de São Paulo. Considerando aspectos urbanísticos, sociais, políticos, culturais e geográficos, com ênfase no transporte público, a pesquisa destacou a falta de infraestrutura urbana no município, apesar das leis brasileiras existentes. Utilizando uma abordagem qualitativa e pluridisciplinar, a pesquisa mapeou os meios de transporte na cidade, analisou as opiniões dos usuários sobre o transporte público e identificou os desafios enfrentados por eles. A coleta de dados incluiu etnofotografia e questionários aplicados aos usuários do terminal de ônibus municipal, com base na concepção benjaminiana de compreender a história a contrapelo. A análise revelou que a ineficiência do transporte público é influenciada tanto pela falta de aplicação das leis pelas gestões municipais quanto pelas condições topográficas e pelo desenho urbano local. Concluiu-se que são necessárias soluções criativas para enfrentar os desafios da mobilidade urbana e garantir o direito de ir e vir com segurança e agilidade.
+Essa pesquisa, realizada como parte dos requisitos para obtenção do título de Bacharel em Ciências Sociais pela Universidade Estadual Paulista Júlio de Mesquita Filho, campus Marília, investigou a mobilidade urbana em Marília, na região Centro-Oeste de São Paulo. Destacou a falta de infraestrutura urbana no município, apesar da legislação existente, considerando aspectos políticos, sócio-culturais, urbanísticos e geográficos. 
+
+Foram utilizados o levantamento bibliográfico pluridisciplinar, a etnofotografia e questionários para mapear e analisar os desafios enfrentados pelos usuários do transporte público, com base na concepção benjaminiana de compreender a história a contrapelo.
+
+Observou-se que a ineficiência do transporte público é resultado da falta de aplicação das leis municipais, das condições topográficas e do desenho urbano, concluindo que são necessárias soluções criativas para garantir o direito à cidade.
 
 # Ferramentas e Tecnologias
 

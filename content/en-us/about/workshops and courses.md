@@ -14,7 +14,7 @@ The video lesson "How to produce and edit your podcast" was produced and distrib
 
 ## Workshop on Production and Distribution of Poetry Podcasts (supported with Brazilian public funding from the "Lei Aldir Blanc - Prêmio Alcides Mesquita 2020"notice)
 
-The workshop on "Production and Distribution of Poetry Podcasts" was held with the financial support of the "Aldir Blanc Law – Alcides Mesquita Award 2020", a Brazilian public notice to provide public funds for cultural projects through a selection made by an examining board managed by the Municipality of Santos and the Federal Government. For more info [[Podcast Workshop - Aldir Blanc (2021)|click here]].
+The workshop on "Production and Distribution of Poetry Podcasts" was held with the financial support of the "Aldir Blanc Law – Alcides Mesquita Award 2020", a Brazilian public notice to provide public funds for cultural projects through a selection made by an examining board managed by the Municipality of Santos and the Federal Government. For more info [[Poetry Podcast Workshop - Aldir Blanc (2021)|click here]].
 
 # 2020
 
