@@ -8,19 +8,19 @@ indentation: "1"
 
 ---
 
-Antropólogo e Produtor Cultural independente. Doutorando e Mestre em Antropologia Social pela Universidade Federal de Santa Catarina (PPGAS/UFSC). Bachiller y Licenciado en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico Informático en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
+Antropólogo y productor cultural independiente. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina. También tengo un Máster en Antropología Social por la Universidad Federal de Santa Catarina.   
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
-# Lenguas que domino
+# Idiomas
 
-| **Idioma** | **Nível**    | CEFR  |
-| ---------- | ------------ | ----- |
-| Portugués  | Nativo       | -     |
-| Inglés     | Fluido       | C2    |
-| Español    | Avanzado     | B2    |
-| Francés    | Intermedio   | B1-B2 |
-| Ruso       | Principiante | A0-A1 |
+| **Idioma** | **Nível** | CEFR |
+| ---- | ---- | ---- |
+| Português | Nativo | - |
+| Inglês | Fluente | C2 |
+| Espanhol | Avançado | B2 |
+| Francês | Intermediário | B1-B2 |
+| Russo | Iniciante | A0-A1 |
 
 ---
 # Educação
