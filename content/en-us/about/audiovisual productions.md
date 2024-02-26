@@ -11,7 +11,9 @@ indentation: "1"
 
 <iframe title="Meu Olhar apresenta &quot;Chico Voltou Só&quot;, de Douglas Gadelha Sá" src="https://www.youtube.com/embed/eyckuFLYndw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-CHICO VOLTOU SÓ ["Chico Came Back Alone"]. Direction, Treatment and Research: Douglas Gadelha Sá. Direction of Photography: Rodrigo Samia. Editing: Leandro Olimpio. Mixing and Sound Design: Brenno Brandalise Demarchi. **Canal Futura (Youtube)**, 2023. Available at: https://www.youtube.com/watch?v=eyckuFLYndw. (Finalist in the project's Competitive Exhibition “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” ["My Vision - Short films made by São Paulo's Peripheral Youth"], an initiative of the Organization of Ibero-American States (OEI), the Roberto Marinho Foundation (FRM) and São Paulo State Film and Audiovisual Company S.A (Spcine), and is available on Globo Play and Canal Futura. For more info [[Documentary - Chico Came Back Alone (2023)|click here]].
+CHICO VOLTOU SÓ ["Chico Came Back Alone"]. Direction, Treatment and Research: Douglas Gadelha Sá. Direction of Photography: Rodrigo Samia. Editing: Leandro Olimpio. Mixing and Sound Design: Brenno Brandalise Demarchi. **Canal Futura (Youtube)**, 2023. Available at: https://www.youtube.com/watch?v=eyckuFLYndw. 
+
+(Finalist in the project's Competitive Exhibition “Meu Olhar – Filmes curtos feitos pela Juventude Periférica de São Paulo” ["My Vision - Short films made by São Paulo's Peripheral Youth"], an initiative of the Organization of Ibero-American States (OEI), the Roberto Marinho Foundation (FRM) and São Paulo State Film and Audiovisual Company S.A (Spcine), and is available on Globo Play and Canal Futura. For more info [[Documentary - Chico Came Back Alone (2023)|click here]].
 
 ---
 # 2021
@@ -20,8 +22,11 @@ CHICO VOLTOU SÓ ["Chico Came Back Alone"]. Direction, Treatment and Research: D
 
 <iframe title="Um Ouvido no Fone e o Outro na Cidade - Mustela - filme resultante da 7ª Oficina do NUPEPA/ImaRgens" src="https://www.youtube.com/embed/u8w5tb4R1hc?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-One Ear on the Phone and the Other in the City. Directed by Alexsânder Nakaóka Elias, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Brenno Brandalise Demarchi, Luiz Henrique Campos Pereira, Noelle Rodrigues Ventura e Renan Moretti Bertho. Núcleo de Produção e Pesquisa Audiovisual [Audiovisual Production and Research Center, São Paulo State University]; Instituto de Comunicação da Universidade NOVA de Lisboa [NOVA Institute of Communication], São Paulo/Lisbon, 2021. Retrieved from: https://www.youtube.com/watch?v=w-zDKlyX9T4. (Selected to be shown at the 1st Ethnographic Film Festival of the Federal University of Rio Grande do Norte – UFRN/Natal). For more info [[Documentary - One Ear on the Phone and the Other in the City (2020)|click here]].
+One Ear on the Phone and the Other in the City. Directed by Alexsânder Nakaóka Elias, Anna Flávia Guimarães Hartmann, Arthur Silva Barbosa, Brenno Brandalise Demarchi, Luiz Henrique Campos Pereira, Noelle Rodrigues Ventura e Renan Moretti Bertho. Núcleo de Produção e Pesquisa Audiovisual [Audiovisual Production and Research Center, São Paulo State University]; Instituto de Comunicação da Universidade NOVA de Lisboa [NOVA Institute of Communication], São Paulo/Lisbon, 2021. Retrieved from: https://www.youtube.com/watch?v=w-zDKlyX9T4. 
 
+(Selected to be shown at the 1st Ethnographic Film Festival of the Federal University of Rio Grande do Norte – UFRN/Natal). For more info [[Documentary - One Ear on the Phone and the Other in the City (2020)|click here]].
+   
+   
 ## Poems Blown by the Northwest Wind
 
 <iframe title="Poemas soprados pelo vento noroeste" src="https://www.youtube.com/embed/uufGfdThMHk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>

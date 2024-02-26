@@ -19,6 +19,8 @@ A "Oficina de Produção e Divulgação de Podcasts de Poesia" foi realizada com
 
 # 2020
 
+## Oficina de Podcasts: da ideia à produção independente 
+
 "Oficina de Podcasts: da ideia à produção independente" foi realizada no IV Encontro de Antropologia Visual da América Amazônica (EAVAAM), entre os dias 18, 19 e 20 de Novembro de 2020. Mais informações [[Oficina de Podcast - IV EAVAAM (2020)|neste link]]. 
 
 

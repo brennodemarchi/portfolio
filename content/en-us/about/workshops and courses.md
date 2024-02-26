@@ -18,6 +18,6 @@ The workshop on "Production and Distribution of Poetry Podcasts" was held with t
 
 # 2020
 
-##  "Podcast Workshop: from idea to independent production
+##  Podcast Workshop: from idea to independent production
 
 "Podcast Workshop: from idea to independent production" took place at the IV Visual Anthropology Meeting of the Amazon America (EAVAAM), from November 18th to 20th, 2020. For more info [[Podcast Workshop - IV EAVAAM (2020)|click here]]. 
