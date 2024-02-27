@@ -45,3 +45,9 @@ INCLUSIVE - Redes Comunitárias para Ambientes Virtuais de Aprendizagem.
 Proponentes: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges. Colaboradoras: Andrey Borges Bernardes, Aparecida Torrecillas,  Bernardo Baião, Brenno Brandalise Demarchi, Cristiano Tavares. Mediação: Mariana Almeida Zani. Silo Arte e Latitude Rural (Youtube), 21 jun. 2020. Disponível em: https://www.youtube.com/watch?v=x3ezYRKeA84. Mais informações [[Vídeo Institucional - Inclusive (2020)|neste link]].
 
 ---
+
+# 2019
+
+<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+PODCAST DE MARTE: Um podcast narrativo para refletirmos criticamente sobre a nossa sociedade. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponível em: https://linktr.ee/podcastdemarte. Mais informações [[Podcast de Marte|neste link]].

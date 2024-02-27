@@ -2,17 +2,17 @@
 indentation: "1"
 ---
 
-> [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
-> [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
+> [!Example] Menú de Navegación
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[talleres y cursos|Talleres y Cursos]]  
+> [[investigaciones|Investigaciones y Notas]] [[contacto|Contacto]]
 
 ---
 
-Antropólogo y productor cultural independiente. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina. También tengo un Máster en Antropología Social por la Universidad Federal de Santa Catarina. Bachiller y Licenciado en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico Informático en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
+Antropólogo y productor cultural independiente. Actualmente cursando un doctorado en Antropología Social en la Universidad Federal de Santa Catarina, donde también obtuve un Máster en Antropología Social. Título de Bachiller y Licencia de Enseñanza en Ciencias Sociales por la Universidade Estadual Paulista (Unesp). Técnico de Grado Medio en Informática en la Escuela Técnica Aristóteles Ferreira (ETEC-AF).   
 [brennodemarchi@gmail.com](mailto:brennodemarchi@gmail.com) | [www.brennodemarchi.art.br](http://www.brennodemarchi.art.br)
 
 ---
-# Lenguas que domino
+# Idiomas
 
 | **Idioma** | **Nível**    | CEFR  |
 | ---------- | ------------ | ----- |
@@ -33,9 +33,9 @@ Universidade Federal de Santa Catarina (UFSC) - Florianópolis, Santa Catarina, 
 Universidade Federal de Santa Catarina (UFSC) - Florianópolis, Santa Catarina, Brasil.
 *Orientación:* Dr.ª Viviane Vedana
 *Junta Examinadora:* Dr.ª Letícia Cesarino (UFSC) y Dr.ª Cornelia Eckert (Universidade Federal do Rio Grande do Sul)
-*Título:* ["Reflexiones antropológicas sobre la pluralidad del agua y sus infraestructuras"](https://repositorio.ufsc.br/handle/123456789/247633). Para más información, [[|consulte este enlace]].
+*Título de la Tesis de Máster:* ["Reflexiones antropológicas sobre la pluralidad del agua y sus infraestructuras"](https://repositorio.ufsc.br/handle/123456789/247633). Para más información, [[Tesís de Máster - Antropología Social (2023)|consulte este enlace]].
 
-##### *2015-2019* | Título de Enseñanza Técnica en Ciencias Sociales
+##### *2015-2019* | Licencia de Enseñanza en Ciencias Sociales
 Universidade Estadual Paulista "Júlio de Mesquita Filho" - Marília, São Paulo, Brasil
 *Prácticas de Enseñanza:* Centro Estatal de Educación de Jóvenes y Adultos (CEEJA) - Profesora Sebastiana Ulian Pessine ["Centro Estadual de Educação de Jovens e Adultos (CEEJA) - Professora Sebastiana Ulian Pessine"], Marília, São Paulo, Brasil (2019)
 
@@ -43,11 +43,11 @@ Universidade Estadual Paulista "Júlio de Mesquita Filho" - Marília, São Paulo
 Universidade Estadual Paulista "Júlio de Mesquita Filho" - Marília, São Paulo, Brasil.
 *Orientación:* Dr.ª Christina de Rezende Rubim
 *Junta Examinadora:* Dr. Antonio Mendes da Costa Braga y Cornelia Eckert (Universidade Federal do Rio Grande do Sul)
-*Título:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). Para más información, [[|consulte este enlace]].
+*Título del Trabajo Final:* ["Nem tão longe, nem tão perto: uma etnofotografia da mobilidade urbana de Marília, São Paulo"](https://www.academia.edu/41024425/Nem_t%C3%A3o_longe_nem_t%C3%A3o_perto_uma_etnofotografia_de_Mar%C3%ADlia_S%C3%A3o_Paulo_Monografia_de_Bacharelado). Para más información, [[Trabajo de Final de Curso - Bachillerato en Ciencias Sociales (2018)|consulte este enlace]].
 
 ##### *2013-2014* | Curso Técnico de Grado Medio en Informática
 Escuela Técnica Aristóteles Ferreira - Santos, São Paulo, Brasil
-*Título:* GESTCOM - Software de gestión comercial para establecimientos de alimentación. Para más información, [[|consulte este enlace]].
+*Proyecto Final:* GESTCOM - Software de gestión comercial para establecimientos de alimentación. Para más información, [[Software - Técnico de Grado Medio  (2014)|consulte este enlace]].
 
 ---
 # Experiencias Profesionales
@@ -56,7 +56,7 @@ Escuela Técnica Aristóteles Ferreira - Santos, São Paulo, Brasil
 
 **2021** | Práctica Docente en la asignatura "Tutoría Optativa IV - Antropología y Sonido", con la supervisión de la Prof.ª Dr.ª Viviane Vedana, en el curso de Grado en Antropología de la Universidad Federal de Santa Catarina (UFSC).
 
-**2019-2021** | *Podcast de Marte*: un podcast narrativo para reflexionar críticamente sobre nuestra sociedad. Produção, roteiro, host e edição: Brenno Brandalise Demarchi. Disponible en Portugués Brasileño en el siguiente enlace: https://linktr.ee/podcastdemarte. Para más información, [[|consulte este enlace]].
+**2019-2021** | *Podcast de Marte*: un podcast narrativo para reflexionar críticamente sobre nuestra sociedad. Producción, guion, presentación y edición: Brenno Brandalise Demarchi. Disponible en Portugués Brasileño en el siguiente enlace: https://linktr.ee/podcastdemarte. Para más informaciones, [[Audio - Podcast de Marte|consulte este enlace]].
 
 **2019** | Prácticas de Enseñanza en la asignatura "Introducción a la Antropología", seleccionado a través de un proceso de selección, en el primer año del curso de Ciencias Sociales, en la Facultad de Filosofía y Ciencias de la Universidade Estadual Paulista (Unesp), supervisada por el Prof. Dr. Antonio Mendes da Costa Braga.
 
@@ -69,13 +69,13 @@ Escuela Técnica Aristóteles Ferreira - Santos, São Paulo, Brasil
 
 ### ProAc Expresso Direto nº 39/2021
 
-La video-lección "Cómo producir y editar tu podcast" fue producida y distribuida gratuitamente en agradecimiento al premio concedido por la Secretaría de Cultura y Economía Creativa del Gobierno del Estado de São Paulo, a través del ProAc Expresso Direto nº 39/2021, a los profesionales del sector cultural creativo. Para más información, [[|consulte este enlace]]. y también en la sección "[[talleres y cursos]]".
+La video-lección "Cómo producir y editar tu podcast" fue producida y distribuida gratuitamente en agradecimiento al premio concedido por la Secretaría de Cultura y Economía Creativa del Gobierno del Estado de São Paulo, a través del ProAc Expresso Direto nº 39/2021, a los profesionales del sector cultural creativo. Para más información, [[Videoaula - Producción y Edición de Podcasts - ProAc Expresso Direto (2021)|consulte este enlace]] y también en la sección "[[talleres y cursos]]".
 
 ## 2020
 
 ### Ley Aldir Blanc - Premio Alcides Mesquita 2020
 
-El "Taller de Producción y Difusión de Podcasts de Poesía" fue organizado con el apoyo de la Ley Aldir Blanc - Premio Alcides Mesquita 2020, de la Alcaldía de Santos y del Gobierno Federal. Para más informaciones, [[consultar este link]] y en la sección "[[talleres y cursos]]".
+El "Taller de Producción y Difusión de Podcasts de Poesía" fue organizado con el apoyo de la Ley Aldir Blanc - Premio Alcides Mesquita 2020, de la Alcaldía de Santos y del Gobierno Federal. Para más informaciones, [[Taller de Producción y Divulgación de Podcasts de Poesía - Ley Aldir Blanc (2021)|consultar este link]] y en la sección "[[talleres y cursos]]".
 
 ---
 # Grupos de Estudio e Investigación
@@ -94,7 +94,7 @@ Coordinado por el Prof. Dr. Paulo Eduardo Teixeira y la Prof. Dra. Maria Leandra
 Coordinado por el Prof. Dr. Adrian Oscar Dongo Montoya y el Prof. Dr. Ricardo Pereira Tassinari. El programa está vinculado al Departamento de Psicología de la Educación, Facultad de Filosofía y Ciencias, Universidad del Estado de São Paulo (Marília, São Paulo, Brasil) y registrado en la base de datos CNPq: http://www.dgp.cnpq.br/dgp/espelhogrupo/9960155130261480.
 
 ---
-# Educação Continuada & Treinamentos Profissionais
+# Formación Continua y Entrenamiento Profesional
 
 
 ## 2022 
@@ -102,159 +102,160 @@ Coordinado por el Prof. Dr. Adrian Oscar Dongo Montoya y el Prof. Dr. Ricardo Pe
 Instituto Singularidades
 **Carga Horaria:** 25 horas
 
-#### Oficina de Roteiro
-Instituto Estadual de Cinema (Iecine)
+#### Taller de Guion
+Instituto Estatal de Cine (Iecine) [Porto Alegre, Rio Grande do Sul, Brasil]
 **Carga Horaria:** 30h
 
-#### Oficina de Preparação de Projetos para Mercados Internacionais para Cinema 
-Instituto Estadual de Cinema (Iecine)
+#### Taller de Preparación de Proyectos para Mercados Internacionales de Cine
+Instituto Estatal de Cine (Iecine) [Porto Alegre, Rio Grande do Sul, Brasil]
 **Carga Horaria:** 30h
 
-#### Elaboração de Projetos Culturais 
-Universidade Federal do Rio de Janeiro
+#### Elaboración de Proyectos Culturales
+Universidad Federal do Río de Janeiro
 **Carga Horaria:**  30h
 
-#### PRINCE2 - Outra maneira de gerenciar projetos na administração pública
-Escola Nacional de Administração Pública (Enap)
+#### PRINCE2 - Otra Forma de Gestionar Proyectos en la Administración Pública
+Escuela Nacional de Administración Pública (ENAP)
 **Carga Horaria:** 
 
-#### Gestão Ágil para Transformação Digital
-Escola Nacional de Administração Pública (Enap)
+#### Gestión Ágil para la Transformación Digital
+Escuela Nacional de Administración Pública (ENAP)
 **Carga Horaria:**  175h
 
-#### Programa de Gestão (Parte II)
-Escola Nacional de Administração Pública (Enap)
+#### Programa de Gestión (Parte II)
+Escuela Nacional de Administración Pública (ENAP)
 **Carga Horaria:** 100h
 
 ---
 
 ## 2021-2022
 
-#### Curso de Leituras: Ecologia, comuns e antropoceno
-Programa de Pós-Graduação em Antropologia Social da Universidade Federal de Santa Catarina `(sob supervisão da Prof.ª Dr.ª Viviane Vedana)`
+#### Curso de Lecturas: Ecología, comunes y antropoceno
+Programa de Posgrado en Antropología Social de la Universidad Federal de Santa Catarina `(bajo la supervisión de la Prof.ª Dr.ª Viviane Vedana)`
 **Carga Horaria:** 60h
 
-#### Adobe Premiere Pro - Edição, Mixagem, Colorização e Animação
-AvMakers -  Escola de Audiovisual
+#### Adobe Premiere Pro - Edición, Mezcla de Audio, Colorización y Animación
+AvMakers -  Escuela de Producción Audiovisual
 **Carga Horaria:**  134h
 
-#### Tratamento Fotográfico Profissional com Softwares Adobe
-AvMakers -  Escola de Audiovisual
-**Carga Horaria:** :** 58h
+#### Tratamiento Fotográfico Profesional con Software de Adobe
+AvMakers -  Escuela de Producción Audiovisual
+**Carga Horaria:** 58h
 
-#### Direção de Fotografia
-AvMakers -  Escola de Audiovisual
+#### Dirección de Fotografía
+AvMakers -  Escuela de Producción Audiovisual
 **Carga Horaria:** 114h
 
-#### Fotografia Profissional
-AvMakers -  Escola de Audiovisual
-**Carga Horária:** 114h
+#### Fotografía Profisionale
+AvMakers -  Escuela de Producción Audiovisual
+**Carga Horaria:** 114h
 
 ---
 ## 2021
 
-#### Processos Musicais: Conceito, Composição e Finalização
-AvMakers -  Escola de Audiovisual
+#### Procesos Musicales: Concepto, Composición y Finalización
+AvMakers -  Escuela de Producción Audiovisual
 **Carga Horaria:**  28h
 
-#### Cinema - Linguagem, Planejamento e Direção
-AvMakers -  Escola de Audiovisual
+#### Cine - Lenguaje, Planificación y Dirección
+AvMakers -  Escuela de Producción Audiovisual
 **Carga Horaria:** 60h
 
-#### A Ecologia Social de Murray Bookchin
-Instituto de Teoria e História Anarquista (ITHA)
+#### La Ecología Social de Murray Bookchin Ecologia Social de Murray Bookchin
+Instituto de Teoría e Historia Anarquista (ITHA)
 **Carga Horaria:** 4h
 
-#### O Prazer de Produzir Audiovisual com Marcelo Torres
-IluMinas Artes
-Carga Horária: 8h
+#### El Placer de Producir Audiovisuales con Marcelo Torres
+*IluMinas Artes*
+**Carga Horaria:** 8h
 
-#### Design Thinking Aplicado à Gestão
-Universidade Federal de São Paulo (Unifesp)
-Carga Horária: 10h
+#### Design Thinking Aplicado a la Gestión
+Universidad Federal de São Paulo (Unifesp)
+**Carga Horaria:** 10h
 
 ---
 ## 2020
 
-#### Extensão universitária em Autogestão, Cooperativas e Economia Solidária
-Universidade Federal de São Paulo (Unifesp)
-Carga Horária: 30h
+#### Extensión Universitaria en Autogestión, Cooperativas y Economía Solidaria
+Universidad Federal de São Paulo (Unifesp)
+**Carga Horaria:** 30h
 
-#### 7ª Edição da Oficina de Audiovisual do ImaRgens/ICNOVA
-Universidade de São Paulo; Instituto de Comunicação da Universidade NOVA de Lisboa (ICNOVA)
-**Trabalho Final:** produção do documentário [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020)|"Um Fone no Ouvido e o Outro na Cidade"]].
-Carga Horária: 60h
+#### 7ª Edición del Taller de Audiovisual de ImaRgens/ICNOVA
+Universidad de São Paulo; Instituto de Comunicación de la Universidad NOVA de Lisboa (ICNOVA)
+**Trabajo Final:** producción del cortometraje documental:  [[Documentário - Um Fone no Ouvido e o Outro na Cidade (2020)|"Um Fone no Ouvido e o Outro na Cidade"]].
+**Carga Horaria:** 60h
 
-#### Execução Financeira e Prestação de Contas Referentes aos Projetos Audiovisuais
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 30h
+#### Ejecucción Financiera y Rendición de Cuentas Relativas a los Proyectos Audiovisuales
+Escuela Nacional de Administración Pública (ENAP)
+**Carga Horaria:** 30h
 
-#### Concepção de projetos audiovisuais e fontes de financiamento
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Concepción de Proyectos Audiovisuales y Fuentes de Financiamiento
+Escuela Nacional de Administración Pública (ENAP)
+**Carga Horaria:** 20h
 
-#### Questão Agrária e Soberania Alimentar
-Universidade Federal do Agreste de Pernambuco (UFAPE)
-Carga Horária: 15h
+#### Cuestión Agraria y Soberanía Alimentar
+Universidad Federal del Agreste de Pernambuco (UFAPE)
+**Carga Horaria:** 15h
 
-#### Gestão da Estratégia com BSC - Fundamentos
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Gestión de la Estrategia con BSC - Fundamentos
+Escuela Nacional de Administración Pública (ENAP)
+**Carga Horaria:** 20h
 
-#### Introdução à Gestão de Processos
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Introducción a la Gestión de Procesos
+Escuela Nacional de Administración Pública (ENAP)
+**Carga Horaria:** 20h
 
-#### Introdução à Gestão de Projetos
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Introducción a la Gestión de Proyectos
+Escuela Nacional de Administración Pública (ENAP)
+**Carga Horaria:** 20h
 
-#### Pesquisa com usuários: como ouvir cidadãos e empresas para melhorar seus serviços
-Escola Nacional de Administração Pública (Enap)
-Carga Horária: 20h
+#### Investigación con Usuarios: cómo escuchar a ciudadanos y empresas para mejorar sus servicios
+Escuela Nacional de Administración Pública (ENAP)
+**Carga Horaria:** 20h
 
-#### Tecnologias livres: memórias, narrativas e tecnologias negras  
-Instituto Procomum
-Carga Horária: 15h
+#### Tecnologías Libres: memorias, narrativas y tecnologías negras
+*Instituto Procomum*
+**Carga Horaria:** 15h
 
 ---
 ## 2019
 
-#### Oficina de narrativa fotográfica
-Universidade Federal do Rio Grande do Sul
-Carga Horária: 6h
+#### Oficina de Narrativa Fotográfica
+Universidad Federal de Rio Grande do Sul 
+**Carga Horaria:** 6 horas
 
-#### Entrevistas Narrativas Biográficas: Condução e Análise
-Sociedade Brasileira de Sociologia; Universidade Federal de Santa Catarina
-Carga Horária: 3h
+#### Entrevistas Narrativas Biográficas: Conducción y Análisis
+Sociedade Brasileira de Sociologia; Universidad Federal de Santa Catarina **Carga Horaria:** 3 horas
 
 ---
 ## 2018
-#### Workshop Big Data, Informação e a Dinâmica da Formação de Opiniões: um estudo
-Universidade Estadual Paulista Júlio de Mesquita Filho
-Carga Horária: 3h
 
-#### Oficina de Fotografia
-Programa de Educação Tutorial de Ciências Sociais, PET-CS
-Carga Horária: 12h
+#### Taller de Big Data, Información y la Dinámica de Formación de Opiniones: un Estudio
+Universidad Estadual Paulista "Júlio de Mesquita Filho" 
+**Carga Horaria:** 3 horas
+
+#### Taller de Fotografía
+Programa de Educación Tutorial de Ciencias Sociales, PET-CS 
+**Carga Horaria:** 12 horas
 
 ---
 ## 2015
 
-#### Extensão universitária em Cinema e Pensamento Social
-Universidade Estadual Paulista Júlio de Mesquita Filho
-Carga Horária: 4h
+#### Extensión Universitaria en Cine y Pensamiento Social
+Universidade Estadual Paulista Júlio de Mesquita Filho 
+**Carga Horaria:** 4 horas
 
 ---
 ## 2013
 
-#### Manutenção de Microcomputadores
-Serviço Nacional de Aprendizagem Comercial- Santos-SP (SENAC)
-Carga Horária: 40h
+#### Reparación de Microcomputadoras
+Servicio Nacional de Aprendizaje Comercial  (SENAC - Santos, São Paulo, Brasil] 
+**Carga Horaria:** 40 horas
 
-----
+---
 ## 2009-2010
 
-#### Programa de Música e Orquestra
-Instituto Pão de Açúcar (IPA)
-Carga Horária: 176h
+#### Programa de Música y Orquesta
+
+Instituto Pão de Açúcar (IPA - Santos, São Paulo, Brasil) 
+**Carga Horaria:** 176 horas

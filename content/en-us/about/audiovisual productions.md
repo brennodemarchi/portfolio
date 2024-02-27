@@ -44,3 +44,10 @@ INCLUSIVE - Community Networks for Virtual Learning Environments.
 Project Proposers: Aluizio Barbosa de Oliveira Neto e Rodrigo Borges. Collaborators: Andrey Borges Bernardes, Aparecida Torrecillas,  Bernardo Baião, Brenno Brandalise Demarchi, Cristiano Tavares. Mediation by Mariana Almeida Zani. Silo - Art and Rural Latitude["Silo Arte e Latitude Rural"]. Retrieved from: https://www.youtube.com/watch?v=x3ezYRKeA84. For mor info [[Institutional Video - Inclusive (2020)|click here]].
 
 ---
+
+# 2019
+
+<iframe src="https://open.spotify.com/show/6QSncBLQ8L6F2PJWAmzZDE" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+PODCAST FROM MARS ["Podcast de Marte"] : a narrative podcast to critically reflect on our society. Production, script, host and editing: Brenno Brandalise Demarchi. Available in Brazilian Portuguese at: https://linktr.ee/podcastdemarte. For more information [[Audio - Podcast from Mars|click here]].
+

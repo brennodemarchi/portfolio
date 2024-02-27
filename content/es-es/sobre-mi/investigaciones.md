@@ -1,19 +1,21 @@
 ---
 indentation: "1"
 ---
-> [!Example] Menu
-> [[index-pt-br|Início]] [[cv em português|Currículo]]  [[publicações|Publicações]] [[audiovisual|Audiovisual]] [[oficinas e cursos|Oficinas e Cursos]]  
-> [[pesquisas|Pesquisas e Anotações]] [[contato|Contato]]
+> [!Example] Menú de Navegación
+> [[index-es-es|Inicio]] [[cv en español|CV]]  [[publicaciones|Publicaciones]] [[producciones audiovisuales|Producciones Audiovisuales]] [[talleres y cursos|Talleres y Cursos]]  
+> [[investigaciones|Investigaciones y Notas]] [[contacto|Contacto]]
 
 
->[!faq] Seções
+> [!faq] Secciones 
+> (En este momento, disponible solo en Portugués de Brasil)
 
-* [[Antropologia das Infraestruturas]] 
-* [[Antropologia do Som e Etnografias Sonoras]] 
-* [[Etnografar a ecologia dos jogos]] 
-* [[Etnografias Multiespécies]]
-* [[Jardins Digitais]]
-* [[Metodologias de Autogestão]]
+* [[Antropologia das Infraestruturas|Antropología de las Infraestructuras]]
+- [[Antropologia do Som e Etnografias Sonoras | Antropología del Sonido y Etnografías Sonoras]]
+- [[Etnografar a ecologia dos jogos | Etnografía de la ecología de los juegos]]
+- [[Etnografias Multiespécies | Etnografías Multiespecies]]
+- [[Jardins Digitais | Jardines Digitales]]
+- [[Metodologias de Autogestão | Metodologías de Autogestión]]
+
 
 
 

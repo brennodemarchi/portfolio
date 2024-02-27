@@ -45,7 +45,7 @@ São Paulo State University "Júlio de Mesquita Filho" (Unesp), Marília, São P
 
 ##### *2013-2014* | Technical Course in Informatics
 São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, Brazil
-*Título:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Software for Commercial Management of Food Establishments (2014)|click here]].
+*Final Project:* GESTCOM - Business Management Software for Food Establishments. For more information [[Software - GESTCOM - Software for Commercial Management of Food Establishments (2014)|click here]].
 
 ---
 # Professional Experience
@@ -54,7 +54,7 @@ São Paulo State Technical School "Aristóteles Ferreira", Santos, São Paulo, B
 
 **2021** | Teaching Internship in the course "Elective Tutorship IV - Anthropology and Sound", under the supervision of Prof. Dr. Viviane Vedana, in the Bachelor's degree course in Anthropology at the Federal University of Santa Catarina (UFSC).
 
-**2019-2021** | Podcast from Mars ["Podcast de Marte"] : a narrative podcast to critically reflect on our society. Production, script, host and editing: Brenno Brandalise Demarchi. Available in Brazilian Portuguese at: https://linktr.ee/podcastdemarte. For more information [[Software - GESTCOM - Gestão Comercial - ETEC (2014)|click here]].
+**2019-2021** | Podcast from Mars ["Podcast de Marte"] : a narrative podcast to critically reflect on our society. Production, script, host and editing: Brenno Brandalise Demarchi. Available in Brazilian Portuguese at: https://linktr.ee/podcastdemarte. For more information [[Audio - Podcast from Mars|click here]].
 
 **2019** | Teaching Internship in the course "Introduction to Anthropology", 
 Teaching Internship selected through a recruitment and selection process, in the course "Introduction to Anthropology", given in the 1st year of the Social Sciences undergraduation course, at the Faculty of Philosophy and Sciences of the São Paulo State University - Brazil, supervised by Dr. Antonio Mendes da Costa Braga.
@@ -75,7 +75,7 @@ In the video class "How to Produce and Edit Your Podcast", I aimed to explain al
 
 ### Aldir Blanc Law – Alcides Mesquita Award - 2020 Edition
 
-The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021. For more info [[Podcast Workshop - IV EAVAAM (2020)|click here]] or check the [[workshops and courses]] section.
+The "Poetry Podcast Production and Promotion Workshop" was a free and entirely online initiative, promoted with the support of the Aldir Blanc Law – Alcides Mesquita Award, from the Municipal Government of Santos and the Federal Government. Its aim was to teach participants to produce high-quality podcasts with limited resources, covering everything from script creation to promotion. Participants had the opportunity to create an episode for the Mars Podcast, focused on the works of poets and artists from Santos, and received a certificate upon completion. The workshop originally had 20 spots planned, but due to the high number of applications, two classes were offered, each with 28 spots, held in February 2021. For more info [[Poetry Podcast Workshop - Aldir Blanc (2021)|click here]] or check the [[workshops and courses]] section.
 
 
 ---
